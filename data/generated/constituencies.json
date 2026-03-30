@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-03-30T00:00:00.000Z",
+  "items": [
+    {
+      "id": "c-sample-north",
+      "slug": "sample-north",
+      "name": "Sample North",
+      "region": "North West England",
+      "incumbentParty": "labour"
+    },
+    {
+      "id": "c-sample-central",
+      "slug": "sample-central",
+      "name": "Sample Central",
+      "region": "West Midlands",
+      "incumbentParty": "conservative"
+    },
+    {
+      "id": "c-sample-coast",
+      "slug": "sample-coast",
+      "name": "Sample Coast",
+      "region": "South East England",
+      "incumbentParty": "liberal-democrat"
+    }
+  ]
+}

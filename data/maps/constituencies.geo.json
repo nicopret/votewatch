@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SN",
+        "name": "North",
+        "party": "labour",
+        "labelX": 84,
+        "labelY": 70
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [36, 28],
+            [132, 40],
+            [126, 110],
+            [48, 118]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SC",
+        "name": "Central",
+        "party": "conservative",
+        "labelX": 173,
+        "labelY": 116
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [130, 64],
+            [230, 56],
+            [252, 132],
+            [148, 152]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SS",
+        "name": "Coast",
+        "party": "liberal-democrat",
+        "labelX": 102,
+        "labelY": 177
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [58, 138],
+            [138, 130],
+            [158, 196],
+            [74, 204]
+          ]
+        ]
+      }
+    }
+  ]
+}
