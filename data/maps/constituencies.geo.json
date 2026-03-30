@@ -4,20 +4,36 @@
     {
       "type": "Feature",
       "properties": {
-        "code": "SN",
-        "name": "North",
-        "party": "labour",
-        "labelX": 84,
-        "labelY": 70
+        "id": "S14001003",
+        "slug": "firth-and-glen",
+        "name": "Firth and Glen",
+        "nation": "Scotland",
+        "region": "Central Scotland"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [36, 28],
-            [132, 40],
-            [126, 110],
-            [48, 118]
+            [
+              -3.8,
+              56.2
+            ],
+            [
+              -3.45,
+              56.2
+            ],
+            [
+              -3.45,
+              55.95
+            ],
+            [
+              -3.8,
+              55.95
+            ],
+            [
+              -3.8,
+              56.2
+            ]
           ]
         ]
       }
@@ -25,20 +41,36 @@
     {
       "type": "Feature",
       "properties": {
-        "code": "SC",
-        "name": "Central",
-        "party": "conservative",
-        "labelX": 173,
-        "labelY": 116
+        "id": "E14001001",
+        "slug": "riverside-north",
+        "name": "Riverside North",
+        "nation": "England",
+        "region": "North West"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [130, 64],
-            [230, 56],
-            [252, 132],
-            [148, 152]
+            [
+              -3,
+              54.8
+            ],
+            [
+              -2.7,
+              54.8
+            ],
+            [
+              -2.7,
+              54.55
+            ],
+            [
+              -3,
+              54.55
+            ],
+            [
+              -3,
+              54.8
+            ]
           ]
         ]
       }
@@ -46,20 +78,36 @@
     {
       "type": "Feature",
       "properties": {
-        "code": "SS",
-        "name": "Coast",
-        "party": "liberal-democrat",
-        "labelX": 102,
-        "labelY": 177
+        "id": "E14001002",
+        "slug": "west-mercia-central",
+        "name": "West Mercia Central",
+        "nation": "England",
+        "region": "West Midlands"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [58, 138],
-            [138, 130],
-            [158, 196],
-            [74, 204]
+            [
+              -2.25,
+              52.7
+            ],
+            [
+              -1.95,
+              52.7
+            ],
+            [
+              -1.95,
+              52.45
+            ],
+            [
+              -2.25,
+              52.45
+            ],
+            [
+              -2.25,
+              52.7
+            ]
           ]
         ]
       }

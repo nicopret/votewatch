@@ -61,7 +61,7 @@ export function SampleConstituencyMap({
                   <path
                     d={path}
                     fill={partyColors[party]}
-                    fillOpacity={party === "no-overall-control" ? 0.8 : 0.95}
+                    fillOpacity={party === "noc" ? 0.8 : 0.95}
                     stroke={designTokens.colors.border}
                     strokeWidth="2"
                   />

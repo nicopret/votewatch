@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-03-30T18:31:43.269Z",
+  "items": [
+    {
+      "id": "S14001003",
+      "slug": "firth-and-glen",
+      "name": "Firth and Glen",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mairi Douglas",
+        "Central Scotland"
+      ]
+    },
+    {
+      "id": "E14001001",
+      "slug": "riverside-north",
+      "name": "Riverside North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Amelia Hart",
+        "North West"
+      ]
+    },
+    {
+      "id": "E14001002",
+      "slug": "west-mercia-central",
+      "name": "West Mercia Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Thomas Reed",
+        "West Midlands"
+      ]
+    }
+  ]
+}

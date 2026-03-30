@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-03-30T18:31:43.249Z",
+  "items": [
+    {
+      "id": "mp-riverside-north",
+      "slug": "amelia-hart",
+      "name": "Amelia Hart",
+      "party": "labour",
+      "partyLabel": "Labour",
+      "constituencyId": "E14001001",
+      "constituencySlug": "riverside-north",
+      "constituencyName": "Riverside North"
+    },
+    {
+      "id": "mp-firth-and-glen",
+      "slug": "mairi-douglas",
+      "name": "Mairi Douglas",
+      "party": "snp",
+      "partyLabel": "SNP",
+      "constituencyId": "S14001003",
+      "constituencySlug": "firth-and-glen",
+      "constituencyName": "Firth and Glen"
+    },
+    {
+      "id": "mp-west-mercia-central",
+      "slug": "thomas-reed",
+      "name": "Thomas Reed",
+      "party": "conservative",
+      "partyLabel": "Conservative",
+      "constituencyId": "E14001002",
+      "constituencySlug": "west-mercia-central",
+      "constituencyName": "West Mercia Central"
+    }
+  ]
+}

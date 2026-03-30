@@ -1,0 +1,26 @@
+{
+  "dataset": "bundled-sample",
+  "items": [
+    {
+      "id": "mp-riverside-north",
+      "name": "Amelia Hart",
+      "party": "labour",
+      "constituencyId": "E14001001",
+      "constituencyName": "Riverside North"
+    },
+    {
+      "id": "mp-west-mercia-central",
+      "name": "Thomas Reed",
+      "party": "conservative",
+      "constituencyId": "E14001002",
+      "constituencyName": "West Mercia Central"
+    },
+    {
+      "id": "mp-firth-and-glen",
+      "name": "Mairi Douglas",
+      "party": "snp",
+      "constituencyId": "S14001003",
+      "constituencyName": "Firth and Glen"
+    }
+  ]
+}

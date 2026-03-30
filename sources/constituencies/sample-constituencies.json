@@ -1,33 +1,12 @@
 {
-  "generatedAt": "2026-03-30T18:31:43.259Z",
+  "dataset": "bundled-sample",
   "items": [
     {
-      "id": "S14001003",
-      "slug": "firth-and-glen",
-      "name": "Firth and Glen",
-      "nation": "Scotland",
-      "region": "Central Scotland",
-      "party": "snp",
-      "partyLabel": "SNP",
-      "mpId": "mp-firth-and-glen",
-      "mpName": "Mairi Douglas",
-      "majority": 2960,
-      "lastElectionYear": 2024,
-      "lastElectionWinner": "SNP",
-      "lastElectionResult": {
-        "winner": "SNP",
-        "majority": 2960,
-        "turnoutPct": 64.1
-      }
-    },
-    {
       "id": "E14001001",
-      "slug": "riverside-north",
       "name": "Riverside North",
       "nation": "England",
       "region": "North West",
       "party": "labour",
-      "partyLabel": "Labour",
       "mpId": "mp-riverside-north",
       "mpName": "Amelia Hart",
       "majority": 4210,
@@ -41,12 +20,10 @@
     },
     {
       "id": "E14001002",
-      "slug": "west-mercia-central",
       "name": "West Mercia Central",
       "nation": "England",
       "region": "West Midlands",
       "party": "conservative",
-      "partyLabel": "Conservative",
       "mpId": "mp-west-mercia-central",
       "mpName": "Thomas Reed",
       "majority": 1875,
@@ -56,6 +33,23 @@
         "winner": "Conservative",
         "majority": 1875,
         "turnoutPct": 59.8
+      }
+    },
+    {
+      "id": "S14001003",
+      "name": "Firth and Glen",
+      "nation": "Scotland",
+      "region": "Central Scotland",
+      "party": "snp",
+      "mpId": "mp-firth-and-glen",
+      "mpName": "Mairi Douglas",
+      "majority": 2960,
+      "lastElectionYear": 2024,
+      "lastElectionWinner": "SNP",
+      "lastElectionResult": {
+        "winner": "SNP",
+        "majority": 2960,
+        "turnoutPct": 64.1
       }
     }
   ]

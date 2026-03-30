@@ -1,13 +1,13 @@
 export type PartyKey =
   | "conservative"
   | "labour"
-  | "liberal-democrat"
+  | "libdem"
   | "snp"
   | "green"
   | "reform"
   | "other"
   | "independent"
-  | "no-overall-control";
+  | "noc";
 
 export interface ConstituencySummary {
   id: string;
