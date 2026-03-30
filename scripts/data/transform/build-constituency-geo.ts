@@ -1,5 +1,4 @@
 import { toDataSlug } from "../../../lib/data/slug.ts";
-import { rawConstituencySourceFileSchema } from "../../../lib/data/schemas.ts";
 import type { ConstituencyGeoJson } from "../../../lib/data/models.ts";
 import {
   isDirectExecution,
@@ -9,44 +8,57 @@ import {
   writeJsonFile,
 } from "../utils.ts";
 
-const rawGeoPath = resolveProjectPath("sources", "maps", "current-constituencies.geo.json");
-const constituencySourcePath = resolveProjectPath("sources", "constituencies", "current.json");
+const rawGeoPath = resolveProjectPath("sources", "maps", "constituencies-2024-bgc.geojson");
 const outputPath = resolveProjectPath("data", "maps", "constituencies.geo.json");
+
+function inferNationFromCode(code: string): string {
+  if (code.startsWith("S")) {
+    return "Scotland";
+  }
+
+  if (code.startsWith("W")) {
+    return "Wales";
+  }
+
+  if (code.startsWith("N")) {
+    return "Northern Ireland";
+  }
+
+  return "England";
+}
 
 export async function main() {
   const rawGeo = (await readJsonFile(rawGeoPath)) as {
     type: string;
     features: Array<{
       type: string;
-      properties: { id: string };
+      properties: {
+        PCON24CD?: string;
+        PCON24NM?: string;
+      };
       geometry: { type: string; coordinates: unknown };
     }>;
   };
-  const constituencySource = rawConstituencySourceFileSchema.parse(
-    await readJsonFile(constituencySourcePath),
-  );
-  const constituenciesById = new Map(
-    constituencySource.items.map((record) => [record.id, record]),
-  );
 
   const features = rawGeo.features
     .map((feature) => {
-      const constituency = constituenciesById.get(feature.properties.id);
+      const id = feature.properties.PCON24CD;
+      const name = feature.properties.PCON24NM;
 
-      if (!constituency) {
+      if (!id || !name) {
         throw new Error(
-          `Geo feature references missing constituency "${feature.properties.id}".`,
+          "Real constituency GeoJSON is missing expected PCON24CD/PCON24NM properties.",
         );
       }
 
       return {
         type: "Feature" as const,
         properties: {
-          id: constituency.id,
-          slug: toDataSlug(constituency.name),
-          name: constituency.name,
-          nation: constituency.nation,
-          region: constituency.region,
+          id,
+          slug: toDataSlug(name),
+          name,
+          nation: inferNationFromCode(id),
+          region: inferNationFromCode(id),
         },
         geometry: feature.geometry,
       };

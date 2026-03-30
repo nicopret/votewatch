@@ -8,10 +8,12 @@
     "start": "next start",
     "lint": "tsc --noEmit",
     "typecheck": "tsc --noEmit",
-    "data:download:constituencies": "node --experimental-strip-types scripts/data/download/download-constituencies.ts",
-    "data:download:mps": "node --experimental-strip-types scripts/data/download/download-mps.ts",
-    "data:download:map": "node --experimental-strip-types scripts/data/download/download-constituency-map.ts",
-    "data:download:all": "node --experimental-strip-types scripts/data/download-all.ts",
+    "data:download:election-results": "node --experimental-strip-types scripts/data/download/download-general-election-results.ts",
+    "data:download:members-openapi": "node --experimental-strip-types scripts/data/download/download-members-openapi.ts",
+    "data:download:members-current": "node --experimental-strip-types scripts/data/download/download-current-constituency-members.ts",
+    "data:download:constituency-geo": "node --experimental-strip-types scripts/data/download/download-constituency-geojson.ts",
+    "data:download:real": "node --experimental-strip-types scripts/data/download/download-all-real-sources.ts",
+    "data:download:all": "npm run data:download:real",
     "data:build:mps": "node --experimental-strip-types scripts/data/transform/build-mps.ts",
     "data:build:constituencies": "node --experimental-strip-types scripts/data/transform/build-constituencies.ts",
     "data:build:search-index": "node --experimental-strip-types scripts/data/transform/build-search-index.ts",
@@ -24,12 +26,14 @@
     "data:step1": "npm run data:download:all && npm run data:build:step1 && npm run data:validate:all"
   },
   "dependencies": {
+    "d3-geo": "3.1.1",
     "next": "15.5.14",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "zod": "3.24.2"
   },
   "devDependencies": {
+    "@types/d3-geo": "3.1.0",
     "@types/node": "22.13.14",
     "@types/react": "19.0.10",
     "@types/react-dom": "19.0.4",
