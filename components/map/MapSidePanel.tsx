@@ -12,18 +12,7 @@ export function MapSidePanel({
   feature: JoinedConstituencyMapFeature | null;
 }) {
   if (!feature) {
-    return (
-      <Panel className="p-5">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[color:var(--color-text-secondary)]">
-          Context panel
-        </p>
-        <h2 className="mt-3 text-xl font-semibold">Select a constituency</h2>
-        <p className="mt-3 text-sm leading-6 text-[color:var(--color-text-secondary)]">
-          Click a constituency on the map to inspect the current MP, party control,
-          majority, and the route stub for the future profile page.
-        </p>
-      </Panel>
-    );
+    return null;
   }
 
   return (
@@ -52,21 +41,9 @@ export function MapSidePanel({
           <dt className="text-[color:var(--color-text-secondary)]">MP</dt>
           <dd className="font-medium">{feature.mpName}</dd>
         </div>
-        <div className="flex items-center justify-between gap-4 border-b border-dashed border-[color:var(--color-border)] pb-3">
+        <div className="flex items-center justify-between gap-4">
           <dt className="text-[color:var(--color-text-secondary)]">Party</dt>
           <dd className="font-medium">{feature.partyLabel}</dd>
-        </div>
-        <div className="flex items-center justify-between gap-4 border-b border-dashed border-[color:var(--color-border)] pb-3">
-          <dt className="text-[color:var(--color-text-secondary)]">Majority</dt>
-          <dd className="font-medium">
-            {feature.majority !== null ? feature.majority.toLocaleString("en-GB") : "Not available"}
-          </dd>
-        </div>
-        <div className="flex items-center justify-between gap-4">
-          <dt className="text-[color:var(--color-text-secondary)]">Last election</dt>
-          <dd className="font-medium">
-            {feature.lastElectionYear ?? "Unknown"}
-          </dd>
         </div>
       </dl>
 

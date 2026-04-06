@@ -88,22 +88,39 @@ function FitBounds({
   const map = useMap();
 
   useEffect(() => {
-    const frame = window.requestAnimationFrame(() => {
+    const fitMap = () => {
       map.invalidateSize(false);
 
       const layer = L.geoJSON(featureCollection);
       const bounds = layer.getBounds();
+      const isMobile = window.matchMedia("(max-width: 767px)").matches;
 
       if (bounds.isValid()) {
         map.fitBounds(bounds, {
-          padding: [8, 8],
+          padding: isMobile ? [2, 2] : [8, 8],
           maxZoom: 12,
         });
+
+        if (isMobile) {
+          map.setZoom(map.getZoom() + 0.5, { animate: false });
+        }
       }
+    };
+
+    const frame = window.requestAnimationFrame(() => {
+      fitMap();
     });
+    const handleResize = () => {
+      window.requestAnimationFrame(() => {
+        fitMap();
+      });
+    };
+
+    window.addEventListener("resize", handleResize);
 
     return () => {
       window.cancelAnimationFrame(frame);
+      window.removeEventListener("resize", handleResize);
     };
   }, [featureCollection, map]);
 
@@ -153,17 +170,21 @@ export function LeafletConstituencyMap({
   }, [highlightedSet, selectedId]);
 
   return (
-    <div className="votewatch-leaflet-map h-[1100px] w-full overflow-hidden rounded-[18px] bg-white md:h-[1250px] lg:h-[1500px] xl:h-[1650px]">
+    <div className="votewatch-leaflet-map h-[78vh] min-h-[620px] max-h-[820px] w-full overflow-hidden rounded-[18px] bg-white sm:h-[720px] md:h-[1250px] md:max-h-none md:min-h-0 lg:h-[1500px] xl:h-[1650px]">
       <MapContainer
         className="h-full w-full"
         center={[54.5, -3.5]}
         zoom={6}
         zoomSnap={0.25}
         preferCanvas
+        dragging={false}
         zoomControl={false}
         attributionControl={false}
         scrollWheelZoom={false}
+        touchZoom={false}
         doubleClickZoom={false}
+        boxZoom={false}
+        keyboard={false}
         worldCopyJump={false}
       >
         <FitBounds featureCollection={featureCollection} />

@@ -13,7 +13,7 @@ export function ConstituencyExplorer({
 }: {
   features: JoinedConstituencyMapFeature[];
 }) {
-  const [selectedId, setSelectedId] = useState<string | null>(features[0]?.id ?? null);
+  const [selectedId, setSelectedId] = useState<string | null>(null);
   const selectedFeature = useMemo(
     () => features.find((feature) => feature.id === selectedId) ?? null,
     [features, selectedId],
@@ -23,7 +23,7 @@ export function ConstituencyExplorer({
   return (
     <section className="grid gap-6 lg:grid-cols-[minmax(0,1.9fr)_340px]">
       <div className="space-y-6">
-        <Panel className="min-h-[760px] overflow-hidden">
+        <Panel className="overflow-hidden md:min-h-[760px]">
           <ConstituencyMap
             features={features}
             selectedId={selectedId}
@@ -34,7 +34,7 @@ export function ConstituencyExplorer({
       </div>
 
       <div className="space-y-6 lg:sticky lg:top-4 lg:self-start">
-        <MapSidePanel feature={selectedFeature} />
+        {selectedFeature ? <MapSidePanel feature={selectedFeature} /> : null}
 
         <Panel className="p-5">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[color:var(--color-text-secondary)]">

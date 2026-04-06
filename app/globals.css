@@ -31,8 +31,9 @@ svg {
 }
 
 .votewatch-leaflet-map {
-  height: 1100px;
-  min-height: 1100px;
+  height: 78vh;
+  min-height: 620px;
+  max-height: 820px;
 }
 
 .votewatch-leaflet-map .leaflet-container {
