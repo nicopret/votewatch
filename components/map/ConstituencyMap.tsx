@@ -1,9 +1,18 @@
 "use client";
 
-import { useMemo, useState } from "react";
-import { MapSvg } from "@/components/map/MapSvg";
-import { MapTooltip } from "@/components/map/MapTooltip";
+import dynamic from "next/dynamic";
 import type { JoinedConstituencyMapFeature } from "@/lib/map/mapTypes";
+
+const LeafletConstituencyMap = dynamic(
+  () =>
+    import("@/components/map/LeafletConstituencyMap").then(
+      (module) => module.LeafletConstituencyMap,
+    ),
+  {
+    ssr: false,
+    loading: () => <div className="min-h-[820px] w-full rounded-[18px] bg-white" />,
+  },
+);
 
 export function ConstituencyMap({
   features,
@@ -16,38 +25,14 @@ export function ConstituencyMap({
   highlightedIds?: string[];
   onSelect: (id: string) => void;
 }) {
-  const [hoveredId, setHoveredId] = useState<string | null>(null);
-  const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
-
-  const featureLookup = useMemo(
-    () => new Map(features.map((feature) => [feature.id, feature])),
-    [features],
-  );
-
-  const hoveredFeature = hoveredId ? featureLookup.get(hoveredId) ?? null : null;
-
   return (
-    <div className="relative p-3">
-      <div className="w-full overflow-hidden bg-white">
-        <MapSvg
-          features={features}
-          hoveredId={hoveredId}
+    <div className="p-3">
+      <LeafletConstituencyMap
+        features={features}
           selectedId={selectedId}
           highlightedIds={highlightedIds}
-          onHover={setHoveredId}
-          onLeave={() => setHoveredId(null)}
           onSelect={onSelect}
-          onPointerMove={setTooltipPosition}
         />
-      </div>
-
-      {hoveredFeature ? (
-        <MapTooltip
-          feature={hoveredFeature}
-          x={tooltipPosition.x}
-          y={tooltipPosition.y}
-        />
-      ) : null}
     </div>
   );
 }

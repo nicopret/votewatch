@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Sans } from "next/font/google";
+import "leaflet/dist/leaflet.css";
 import "./globals.css";
 import { SiteHeader } from "@/components/layout/site-header";
 import { appCssVariables, designTokens } from "@/lib/design-tokens";
