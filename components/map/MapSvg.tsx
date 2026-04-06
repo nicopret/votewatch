@@ -52,7 +52,6 @@ export function MapSvg({
         });
       }}
     >
-      <title>VoteWatch constituency map</title>
       <rect
         x="0"
         y="0"

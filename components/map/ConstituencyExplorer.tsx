@@ -1,12 +1,12 @@
 "use client";
 
+import { useMemo, useState } from "react";
 import { ConstituencyMap } from "@/components/map/ConstituencyMap";
 import { MapSidePanel } from "@/components/map/MapSidePanel";
 import { PartyPalette } from "@/components/ui/party-palette";
 import { Panel } from "@/components/ui/panel";
+import { getPartyLegendItems } from "@/lib/map/getPartyLegendItems";
 import type { JoinedConstituencyMapFeature } from "@/lib/map/mapTypes";
-import { useMemo, useState } from "react";
-import type { PartyKey } from "@/lib/types";
 
 export function ConstituencyExplorer({
   features,
@@ -18,17 +18,7 @@ export function ConstituencyExplorer({
     () => features.find((feature) => feature.id === selectedId) ?? null,
     [features, selectedId],
   );
-  const activeParties = useMemo(
-    () =>
-      Array.from(
-        new Set(
-          features
-            .map((feature) => feature.party)
-            .filter((party): party is PartyKey => party !== "unknown"),
-        ),
-      ),
-    [features],
-  );
+  const legendItems = useMemo(() => getPartyLegendItems(features), [features]);
 
   return (
     <section className="grid gap-6 lg:grid-cols-[minmax(0,1.9fr)_340px]">
@@ -43,7 +33,7 @@ export function ConstituencyExplorer({
         </Panel>
       </div>
 
-      <div className="space-y-6">
+      <div className="space-y-6 lg:sticky lg:top-4 lg:self-start">
         <MapSidePanel feature={selectedFeature} />
 
         <Panel className="p-5">
@@ -51,7 +41,7 @@ export function ConstituencyExplorer({
             Party palette
           </p>
           <div className="mt-4">
-            <PartyPalette parties={activeParties} />
+            <PartyPalette items={legendItems} />
           </div>
         </Panel>
       </div>

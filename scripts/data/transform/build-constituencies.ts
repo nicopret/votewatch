@@ -1,6 +1,4 @@
-import { PARTY_LABELS } from "../../../lib/data/party.ts";
-import { toDataSlug } from "../../../lib/data/slug.ts";
-import { mpsFileSchema, rawConstituencySourceFileSchema } from "../../../lib/data/schemas.ts";
+import { mpsFileSchema } from "../../../lib/data/schemas.ts";
 import type { ConstituenciesFile } from "../../../lib/data/models.ts";
 import {
   isDirectExecution,
@@ -9,42 +7,54 @@ import {
   resolveProjectPath,
   writeJsonFile,
 } from "../utils.ts";
+import {
+  constituencyLookupKey,
+  normalizePartyName,
+  toPartyLabel,
+  type MembersApiPayload,
+  type RealGeoFeature,
+} from "./real-constituency-utils.ts";
 
-const constituencySourcePath = resolveProjectPath("sources", "constituencies", "current.json");
+const membersSourcePath = resolveProjectPath("sources", "mps", "current-constituencies-or-members.json");
+const geoPath = resolveProjectPath("data", "maps", "constituencies.geo.json");
 const mpOutputPath = resolveProjectPath("data", "generated", "mps.json");
 const outputPath = resolveProjectPath("data", "generated", "constituencies.json");
 
 export async function main() {
-  const rawConstituencies = rawConstituencySourceFileSchema.parse(
-    await readJsonFile(constituencySourcePath),
-  );
+  const members = await readJsonFile<MembersApiPayload>(membersSourcePath);
+  const geo = await readJsonFile<{ features: RealGeoFeature[] }>(geoPath);
   const mps = mpsFileSchema.parse(await readJsonFile(mpOutputPath));
   const mpsById = new Map(mps.items.map((record) => [record.id, record]));
+  const membersByConstituencyName = new Map(
+    members.items.map((record) => [
+      constituencyLookupKey(record.value.latestHouseMembership?.membershipFrom ?? ""),
+      record,
+    ]),
+  );
 
-  const items = rawConstituencies.items
-    .map((record) => {
-      const mp = mpsById.get(record.mpId);
-
-      if (!mp) {
-        throw new Error(
-          `Constituency "${record.name}" references missing MP "${record.mpId}".`,
-        );
-      }
+  const items = geo.features
+    .map((feature) => {
+      const member = membersByConstituencyName.get(
+        constituencyLookupKey(feature.properties.name),
+      );
+      const mpId = member ? `member-${member.value.id}` : "";
+      const mp = mpId ? mpsById.get(mpId) : null;
+      const party = normalizePartyName(member?.value.latestParty?.name);
 
       return {
-        id: record.id,
-        slug: toDataSlug(record.name),
-        name: record.name,
-        nation: record.nation,
-        region: record.region,
-        party: record.party,
-        partyLabel: PARTY_LABELS[record.party],
-        mpId: mp.id,
-        mpName: mp.name,
-        majority: record.majority,
-        lastElectionYear: record.lastElectionYear,
-        lastElectionWinner: record.lastElectionWinner,
-        lastElectionResult: record.lastElectionResult,
+        id: feature.properties.id,
+        slug: feature.properties.slug,
+        name: feature.properties.name,
+        nation: feature.properties.nation,
+        region: feature.properties.region,
+        party,
+        partyLabel: toPartyLabel(party),
+        mpId,
+        mpName: mp?.name ?? member?.value.nameDisplayAs ?? "Unavailable",
+        majority: null,
+        lastElectionYear: null,
+        lastElectionWinner: null,
+        lastElectionResult: null,
       };
     })
     .sort((left, right) => left.name.localeCompare(right.name, "en-GB"));

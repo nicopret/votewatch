@@ -3,7 +3,8 @@ export function toDataSlug(value: string): string {
     .trim()
     .toLowerCase()
     .normalize("NFKD")
-    .replace(/['’]/g, "")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/['â€™]/g, "")
     .replace(/[().,/]/g, " ")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
