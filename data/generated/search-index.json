@@ -1,0 +1,7155 @@
+{
+  "generatedAt": "2026-04-06T05:23:37.211Z",
+  "items": [
+    {
+      "id": "W07000081",
+      "slug": "aberafan-maesteg",
+      "name": "Aberafan Maesteg",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stephen Kinnock",
+        "Wales"
+      ]
+    },
+    {
+      "id": "S14000060",
+      "slug": "aberdeen-north",
+      "name": "Aberdeen North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kirsty Blackman",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000061",
+      "slug": "aberdeen-south",
+      "name": "Aberdeen South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stephen Flynn",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000062",
+      "slug": "aberdeenshire-north-and-moray-east",
+      "name": "Aberdeenshire North and Moray East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Seamus Logan",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000063",
+      "slug": "airdrie-and-shotts",
+      "name": "Airdrie and Shotts",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kenneth Stevenson",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001063",
+      "slug": "aldershot",
+      "name": "Aldershot",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Baker",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001064",
+      "slug": "aldridge-brownhills",
+      "name": "Aldridge-Brownhills",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Wendy Morton",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000064",
+      "slug": "alloa-and-grangemouth",
+      "name": "Alloa and Grangemouth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Brian Leishman",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001065",
+      "slug": "altrincham-and-sale-west",
+      "name": "Altrincham and Sale West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Connor Rand",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000082",
+      "slug": "alyn-and-deeside",
+      "name": "Alyn and Deeside",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Mark Tami",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001066",
+      "slug": "amber-valley",
+      "name": "Amber Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Linsey Farnsworth",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000065",
+      "slug": "angus-and-perthshire-glens",
+      "name": "Angus and Perthshire Glens",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dave Doogan",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000066",
+      "slug": "arbroath-and-broughty-ferry",
+      "name": "Arbroath and Broughty Ferry",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stephen Gethins",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000067",
+      "slug": "argyll-bute-and-south-lochaber",
+      "name": "Argyll, Bute and South Lochaber",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Brendan O'Hara",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001067",
+      "slug": "arundel-and-south-downs",
+      "name": "Arundel and South Downs",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Griffith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001068",
+      "slug": "ashfield",
+      "name": "Ashfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lee Anderson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001069",
+      "slug": "ashford",
+      "name": "Ashford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sojan Joseph",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001070",
+      "slug": "ashton-under-lyne",
+      "name": "Ashton-under-Lyne",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Angela Rayner",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001071",
+      "slug": "aylesbury",
+      "name": "Aylesbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Laura Kyrke-Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000107",
+      "slug": "ayr-carrick-and-cumnock",
+      "name": "Ayr, Carrick and Cumnock",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Elaine Stewart",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001072",
+      "slug": "banbury",
+      "name": "Banbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sean Woodcock",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000083",
+      "slug": "bangor-aberconwy",
+      "name": "Bangor Aberconwy",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Claire Hughes",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001073",
+      "slug": "barking",
+      "name": "Barking",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Nesil Caliskan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001074",
+      "slug": "barnsley-north",
+      "name": "Barnsley North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dan Jarvis",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001075",
+      "slug": "barnsley-south",
+      "name": "Barnsley South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stephanie Peacock",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001076",
+      "slug": "barrow-and-furness",
+      "name": "Barrow and Furness",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Michelle Scrogham",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001077",
+      "slug": "basildon-and-billericay",
+      "name": "Basildon and Billericay",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Richard Holden",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001078",
+      "slug": "basingstoke",
+      "name": "Basingstoke",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Luke Murphy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001079",
+      "slug": "bassetlaw",
+      "name": "Bassetlaw",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jo White",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001080",
+      "slug": "bath",
+      "name": "Bath",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Wera Hobhouse",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000068",
+      "slug": "bathgate-and-linlithgow",
+      "name": "Bathgate and Linlithgow",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kirsteen Sullivan",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001081",
+      "slug": "battersea",
+      "name": "Battersea",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Marsha De Cordova",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001082",
+      "slug": "beaconsfield",
+      "name": "Beaconsfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Joy Morrissey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001083",
+      "slug": "beckenham-and-penge",
+      "name": "Beckenham and Penge",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Liam Conlon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001084",
+      "slug": "bedford",
+      "name": "Bedford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mohammad Yasin",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000001",
+      "slug": "belfast-east",
+      "name": "Belfast East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gavin Robinson",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "N05000002",
+      "slug": "belfast-north",
+      "name": "Belfast North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Finucane",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "N05000003",
+      "slug": "belfast-south-and-mid-down",
+      "name": "Belfast South and Mid Down",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Claire Hanna",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "N05000004",
+      "slug": "belfast-west",
+      "name": "Belfast West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Paul Maskey",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001085",
+      "slug": "bermondsey-and-old-southwark",
+      "name": "Bermondsey and Old Southwark",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Neil Coyle",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000108",
+      "slug": "berwickshire-roxburgh-and-selkirk",
+      "name": "Berwickshire, Roxburgh and Selkirk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Lamont",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001086",
+      "slug": "bethnal-green-and-stepney",
+      "name": "Bethnal Green and Stepney",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rushanara Ali",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001087",
+      "slug": "beverley-and-holderness",
+      "name": "Beverley and Holderness",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Graham Stuart",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001088",
+      "slug": "bexhill-and-battle",
+      "name": "Bexhill and Battle",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Kieran Mullan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001089",
+      "slug": "bexleyheath-and-crayford",
+      "name": "Bexleyheath and Crayford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Daniel Francis",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001090",
+      "slug": "bicester-and-woodstock",
+      "name": "Bicester and Woodstock",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Calum Miller",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001091",
+      "slug": "birkenhead",
+      "name": "Birkenhead",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alison McGovern",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001092",
+      "slug": "birmingham-edgbaston",
+      "name": "Birmingham Edgbaston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Preet Kaur Gill",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001093",
+      "slug": "birmingham-erdington",
+      "name": "Birmingham Erdington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Paulette Hamilton",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001094",
+      "slug": "birmingham-hall-green-and-moseley",
+      "name": "Birmingham Hall Green and Moseley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tahir Ali",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001095",
+      "slug": "birmingham-hodge-hill-and-solihull-north",
+      "name": "Birmingham Hodge Hill and Solihull North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Liam Byrne",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001096",
+      "slug": "birmingham-ladywood",
+      "name": "Birmingham Ladywood",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Shabana Mahmood",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001097",
+      "slug": "birmingham-northfield",
+      "name": "Birmingham Northfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Laurence Turner",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001098",
+      "slug": "birmingham-perry-barr",
+      "name": "Birmingham Perry Barr",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ayoub Khan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001099",
+      "slug": "birmingham-selly-oak",
+      "name": "Birmingham Selly Oak",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Al Carns",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001100",
+      "slug": "birmingham-yardley",
+      "name": "Birmingham Yardley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jess Phillips",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001101",
+      "slug": "bishop-auckland",
+      "name": "Bishop Auckland",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sam Rushworth",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001102",
+      "slug": "blackburn",
+      "name": "Blackburn",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Adnan Hussain",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001103",
+      "slug": "blackley-and-middleton-south",
+      "name": "Blackley and Middleton South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Graham Stringer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001104",
+      "slug": "blackpool-north-and-fleetwood",
+      "name": "Blackpool North and Fleetwood",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lorraine Beavers",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001105",
+      "slug": "blackpool-south",
+      "name": "Blackpool South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Webb",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000084",
+      "slug": "blaenau-gwent-and-rhymney",
+      "name": "Blaenau Gwent and Rhymney",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Nick Smith",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001106",
+      "slug": "blaydon-and-consett",
+      "name": "Blaydon and Consett",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Liz Twist",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001107",
+      "slug": "blyth-and-ashington",
+      "name": "Blyth and Ashington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ian Lavery",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001108",
+      "slug": "bognor-regis-and-littlehampton",
+      "name": "Bognor Regis and Littlehampton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alison Griffiths",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001109",
+      "slug": "bolsover",
+      "name": "Bolsover",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Natalie Fleet",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001110",
+      "slug": "bolton-north-east",
+      "name": "Bolton North East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kirith Entwistle",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001111",
+      "slug": "bolton-south-and-walkden",
+      "name": "Bolton South and Walkden",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Yasmin Qureshi",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001112",
+      "slug": "bolton-west",
+      "name": "Bolton West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Phil Brickell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001113",
+      "slug": "bootle",
+      "name": "Bootle",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Peter Dowd",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001114",
+      "slug": "boston-and-skegness",
+      "name": "Boston and Skegness",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Richard Tice",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001115",
+      "slug": "bournemouth-east",
+      "name": "Bournemouth East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tom Hayes",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001116",
+      "slug": "bournemouth-west",
+      "name": "Bournemouth West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jessica Toale",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001117",
+      "slug": "bracknell",
+      "name": "Bracknell",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Peter Swallow",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001118",
+      "slug": "bradford-east",
+      "name": "Bradford East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Imran Hussain",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001119",
+      "slug": "bradford-south",
+      "name": "Bradford South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Judith Cummins",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001120",
+      "slug": "bradford-west",
+      "name": "Bradford West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Naz Shah",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001121",
+      "slug": "braintree",
+      "name": "Braintree",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir James Cleverly",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000085",
+      "slug": "brecon-radnor-and-cwm-tawe",
+      "name": "Brecon, Radnor and Cwm Tawe",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Chadwick",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001122",
+      "slug": "brent-east",
+      "name": "Brent East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dawn Butler",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001123",
+      "slug": "brent-west",
+      "name": "Brent West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Barry Gardiner",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001124",
+      "slug": "brentford-and-isleworth",
+      "name": "Brentford and Isleworth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ruth Cadbury",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001125",
+      "slug": "brentwood-and-ongar",
+      "name": "Brentwood and Ongar",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Burghart",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000086",
+      "slug": "bridgend",
+      "name": "Bridgend",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Elmore",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001126",
+      "slug": "bridgwater",
+      "name": "Bridgwater",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Ashley Fox",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001127",
+      "slug": "bridlington-and-the-wolds",
+      "name": "Bridlington and The Wolds",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Charlie Dewhirst",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001128",
+      "slug": "brigg-and-immingham",
+      "name": "Brigg and Immingham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Martin Vickers",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001129",
+      "slug": "brighton-kemptown-and-peacehaven",
+      "name": "Brighton Kemptown and Peacehaven",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Ward",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001130",
+      "slug": "brighton-pavilion",
+      "name": "Brighton Pavilion",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Siân Berry",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001131",
+      "slug": "bristol-central",
+      "name": "Bristol Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Carla Denyer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001132",
+      "slug": "bristol-east",
+      "name": "Bristol East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kerry McCarthy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001133",
+      "slug": "bristol-north-east",
+      "name": "Bristol North East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Damien Egan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001134",
+      "slug": "bristol-north-west",
+      "name": "Bristol North West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Darren Jones",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001135",
+      "slug": "bristol-south",
+      "name": "Bristol South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Karin Smyth",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001136",
+      "slug": "broadland-and-fakenham",
+      "name": "Broadland and Fakenham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jerome Mayhew",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001137",
+      "slug": "bromley-and-biggin-hill",
+      "name": "Bromley and Biggin Hill",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Peter Fortune",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001138",
+      "slug": "bromsgrove",
+      "name": "Bromsgrove",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Bradley Thomas",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001139",
+      "slug": "broxbourne",
+      "name": "Broxbourne",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lewis Cocking",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001140",
+      "slug": "broxtowe",
+      "name": "Broxtowe",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Juliet Campbell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001141",
+      "slug": "buckingham-and-bletchley",
+      "name": "Buckingham and Bletchley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Callum Anderson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001142",
+      "slug": "burnley",
+      "name": "Burnley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Oliver Ryan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001143",
+      "slug": "burton-and-uttoxeter",
+      "name": "Burton and Uttoxeter",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jacob Collier",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001144",
+      "slug": "bury-north",
+      "name": "Bury North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr James Frith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001145",
+      "slug": "bury-south",
+      "name": "Bury South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Christian Wakeford",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001146",
+      "slug": "bury-st-edmunds-and-stowmarket",
+      "name": "Bury St Edmunds and Stowmarket",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Peter Prinsley",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000087",
+      "slug": "caerfyrddin",
+      "name": "Caerfyrddin",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ann Davies",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000088",
+      "slug": "caerphilly",
+      "name": "Caerphilly",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Evans",
+        "Wales"
+      ]
+    },
+    {
+      "id": "S14000069",
+      "slug": "caithness-sutherland-and-easter-ross",
+      "name": "Caithness, Sutherland and Easter Ross",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jamie Stone",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001147",
+      "slug": "calder-valley",
+      "name": "Calder Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Josh Fenton-Glynn",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001148",
+      "slug": "camborne-and-redruth",
+      "name": "Camborne and Redruth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Perran Moon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001149",
+      "slug": "cambridge",
+      "name": "Cambridge",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Daniel Zeichner",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001150",
+      "slug": "cannock-chase",
+      "name": "Cannock Chase",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Josh Newbury",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001151",
+      "slug": "canterbury",
+      "name": "Canterbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rosie Duffield",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000089",
+      "slug": "cardiff-east",
+      "name": "Cardiff East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jo Stevens",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000090",
+      "slug": "cardiff-north",
+      "name": "Cardiff North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Anna McMorrin",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000091",
+      "slug": "cardiff-south-and-penarth",
+      "name": "Cardiff South and Penarth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stephen Doughty",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000092",
+      "slug": "cardiff-west",
+      "name": "Cardiff West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Alex Barros-Curtis",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001152",
+      "slug": "carlisle",
+      "name": "Carlisle",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ms Julie Minns",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001153",
+      "slug": "carshalton-and-wallington",
+      "name": "Carshalton and Wallington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Bobby Dean",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001154",
+      "slug": "castle-point",
+      "name": "Castle Point",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rebecca Harris",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000109",
+      "slug": "central-ayrshire",
+      "name": "Central Ayrshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alan Gemmell",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001155",
+      "slug": "central-devon",
+      "name": "Central Devon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Mel Stride",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001156",
+      "slug": "central-suffolk-and-north-ipswich",
+      "name": "Central Suffolk and North Ipswich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Patrick Spencer",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000093",
+      "slug": "ceredigion-preseli",
+      "name": "Ceredigion Preseli",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ben Lake",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001157",
+      "slug": "chatham-and-aylesford",
+      "name": "Chatham and Aylesford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tristan Osborne",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001158",
+      "slug": "cheadle",
+      "name": "Cheadle",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tom Morrison",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001159",
+      "slug": "chelmsford",
+      "name": "Chelmsford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Marie Goldman",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001160",
+      "slug": "chelsea-and-fulham",
+      "name": "Chelsea and Fulham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ben Coleman",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001161",
+      "slug": "cheltenham",
+      "name": "Cheltenham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Max Wilkinson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001162",
+      "slug": "chesham-and-amersham",
+      "name": "Chesham and Amersham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Green",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001163",
+      "slug": "chester-north-and-neston",
+      "name": "Chester North and Neston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Samantha Dixon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001164",
+      "slug": "chester-south-and-eddisbury",
+      "name": "Chester South and Eddisbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Aphra Brandreth",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001165",
+      "slug": "chesterfield",
+      "name": "Chesterfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Toby Perkins",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001166",
+      "slug": "chichester",
+      "name": "Chichester",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jess Brown-Fuller",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001167",
+      "slug": "chingford-and-woodford-green",
+      "name": "Chingford and Woodford Green",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Iain Duncan Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001168",
+      "slug": "chippenham",
+      "name": "Chippenham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Gibson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001169",
+      "slug": "chipping-barnet",
+      "name": "Chipping Barnet",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dan Tomlinson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001170",
+      "slug": "chorley",
+      "name": "Chorley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Lindsay Hoyle",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001171",
+      "slug": "christchurch",
+      "name": "Christchurch",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Christopher Chope",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001172",
+      "slug": "cities-of-london-and-westminster",
+      "name": "Cities of London and Westminster",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rachel Blake",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001173",
+      "slug": "city-of-durham",
+      "name": "City of Durham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mary Kelly Foy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001174",
+      "slug": "clacton",
+      "name": "Clacton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Nigel Farage",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001175",
+      "slug": "clapham-and-brixton-hill",
+      "name": "Clapham and Brixton Hill",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Bell Ribeiro-Addy",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000094",
+      "slug": "clwyd-east",
+      "name": "Clwyd East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Becky Gittins",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000095",
+      "slug": "clwyd-north",
+      "name": "Clwyd North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gill German",
+        "Wales"
+      ]
+    },
+    {
+      "id": "S14000070",
+      "slug": "coatbridge-and-bellshill",
+      "name": "Coatbridge and Bellshill",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Frank McNally",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001176",
+      "slug": "colchester",
+      "name": "Colchester",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Pam Cox",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001177",
+      "slug": "colne-valley",
+      "name": "Colne Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Paul Davies",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001178",
+      "slug": "congleton",
+      "name": "Congleton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Russell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001179",
+      "slug": "corby-and-east-northamptonshire",
+      "name": "Corby and East Northamptonshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lee Barron",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001180",
+      "slug": "coventry-east",
+      "name": "Coventry East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mary Creagh",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001181",
+      "slug": "coventry-north-west",
+      "name": "Coventry North West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Taiwo Owatemi",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001182",
+      "slug": "coventry-south",
+      "name": "Coventry South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Zarah Sultana",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000071",
+      "slug": "cowdenbeath-and-kirkcaldy",
+      "name": "Cowdenbeath and Kirkcaldy",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Melanie Ward",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001183",
+      "slug": "cramlington-and-killingworth",
+      "name": "Cramlington and Killingworth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Emma Foody",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001184",
+      "slug": "crawley",
+      "name": "Crawley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Peter Lamb",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001185",
+      "slug": "crewe-and-nantwich",
+      "name": "Crewe and Nantwich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Connor Naismith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001186",
+      "slug": "croydon-east",
+      "name": "Croydon East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Natasha Irons",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001187",
+      "slug": "croydon-south",
+      "name": "Croydon South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Philp",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001188",
+      "slug": "croydon-west",
+      "name": "Croydon West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Jones",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000072",
+      "slug": "cumbernauld-and-kirkintilloch",
+      "name": "Cumbernauld and Kirkintilloch",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Katrina Murray",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001189",
+      "slug": "dagenham-and-rainham",
+      "name": "Dagenham and Rainham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Margaret Mullane",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001190",
+      "slug": "darlington",
+      "name": "Darlington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lola McEvoy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001191",
+      "slug": "dartford",
+      "name": "Dartford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jim Dickson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001192",
+      "slug": "daventry",
+      "name": "Daventry",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stuart Andrew",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001193",
+      "slug": "derby-north",
+      "name": "Derby North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Catherine Atkinson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001194",
+      "slug": "derby-south",
+      "name": "Derby South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Baggy Shanker",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001195",
+      "slug": "derbyshire-dales",
+      "name": "Derbyshire Dales",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Whitby",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001196",
+      "slug": "dewsbury-and-batley",
+      "name": "Dewsbury and Batley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Iqbal Mohamed",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001197",
+      "slug": "didcot-and-wantage",
+      "name": "Didcot and Wantage",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Olly Glover",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001198",
+      "slug": "doncaster-central",
+      "name": "Doncaster Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sally Jameson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001199",
+      "slug": "doncaster-east-and-the-isle-of-axholme",
+      "name": "Doncaster East and the Isle of Axholme",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lee Pitcher",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001200",
+      "slug": "doncaster-north",
+      "name": "Doncaster North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ed Miliband",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001201",
+      "slug": "dorking-and-horley",
+      "name": "Dorking and Horley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Coghlan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001202",
+      "slug": "dover-and-deal",
+      "name": "Dover and Deal",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mike Tapp",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001203",
+      "slug": "droitwich-and-evesham",
+      "name": "Droitwich and Evesham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Nigel Huddleston",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001204",
+      "slug": "dudley",
+      "name": "Dudley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sonia Kumar",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001205",
+      "slug": "dulwich-and-west-norwood",
+      "name": "Dulwich and West Norwood",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Helen Hayes",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000073",
+      "slug": "dumfries-and-galloway",
+      "name": "Dumfries and Galloway",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Cooper",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000074",
+      "slug": "dumfriesshire-clydesdale-and-tweeddale",
+      "name": "Dumfriesshire, Clydesdale and Tweeddale",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Mundell",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000075",
+      "slug": "dundee-central",
+      "name": "Dundee Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Law",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000076",
+      "slug": "dunfermline-and-dollar",
+      "name": "Dunfermline and Dollar",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Graeme Downie",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001206",
+      "slug": "dunstable-and-leighton-buzzard",
+      "name": "Dunstable and Leighton Buzzard",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Mayer",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000096",
+      "slug": "dwyfor-meirionnydd",
+      "name": "Dwyfor Meirionnydd",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Liz Saville Roberts",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001207",
+      "slug": "ealing-central-and-acton",
+      "name": "Ealing Central and Acton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Rupa Huq",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001208",
+      "slug": "ealing-north",
+      "name": "Ealing North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "James Murray",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001209",
+      "slug": "ealing-southall",
+      "name": "Ealing Southall",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Deirdre Costigan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001210",
+      "slug": "earley-and-woodley",
+      "name": "Earley and Woodley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Yuan Yang",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001211",
+      "slug": "easington",
+      "name": "Easington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Grahame Morris",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000005",
+      "slug": "east-antrim",
+      "name": "East Antrim",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sammy Wilson",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001212",
+      "slug": "east-grinstead-and-uckfield",
+      "name": "East Grinstead and Uckfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mims Davies",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001213",
+      "slug": "east-ham",
+      "name": "East Ham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Stephen Timms",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001214",
+      "slug": "east-hampshire",
+      "name": "East Hampshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Damian Hinds",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000077",
+      "slug": "east-kilbride-and-strathaven",
+      "name": "East Kilbride and Strathaven",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Joani Reid",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "N05000006",
+      "slug": "east-londonderry",
+      "name": "East Londonderry",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Gregory Campbell",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "S14000021",
+      "slug": "east-renfrewshire",
+      "name": "East Renfrewshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Blair McDougall",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001215",
+      "slug": "east-surrey",
+      "name": "East Surrey",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Claire Coutinho",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001216",
+      "slug": "east-thanet",
+      "name": "East Thanet",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ms Polly Billington",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001217",
+      "slug": "east-wiltshire",
+      "name": "East Wiltshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Danny Kruger",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001218",
+      "slug": "east-worthing-and-shoreham",
+      "name": "East Worthing and Shoreham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tom Rutland",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001219",
+      "slug": "eastbourne",
+      "name": "Eastbourne",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Josh Babarinde",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001220",
+      "slug": "eastleigh",
+      "name": "Eastleigh",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Liz Jarvis",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000078",
+      "slug": "edinburgh-east-and-musselburgh",
+      "name": "Edinburgh East and Musselburgh",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Murray",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000079",
+      "slug": "edinburgh-north-and-leith",
+      "name": "Edinburgh North and Leith",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tracy Gilbert",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000080",
+      "slug": "edinburgh-south",
+      "name": "Edinburgh South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ian Murray",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000081",
+      "slug": "edinburgh-south-west",
+      "name": "Edinburgh South West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Scott Arthur",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000082",
+      "slug": "edinburgh-west",
+      "name": "Edinburgh West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Christine Jardine",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001221",
+      "slug": "edmonton-and-winchmore-hill",
+      "name": "Edmonton and Winchmore Hill",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kate Osamor",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001222",
+      "slug": "ellesmere-port-and-bromborough",
+      "name": "Ellesmere Port and Bromborough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Justin Madders",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001223",
+      "slug": "eltham-and-chislehurst",
+      "name": "Eltham and Chislehurst",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Clive Efford",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001224",
+      "slug": "ely-and-east-cambridgeshire",
+      "name": "Ely and East Cambridgeshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Charlotte Cane",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001225",
+      "slug": "enfield-north",
+      "name": "Enfield North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Feryal Clark",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001226",
+      "slug": "epping-forest",
+      "name": "Epping Forest",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Neil Hudson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001227",
+      "slug": "epsom-and-ewell",
+      "name": "Epsom and Ewell",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Helen Maguire",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001228",
+      "slug": "erewash",
+      "name": "Erewash",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Adam Thompson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001229",
+      "slug": "erith-and-thamesmead",
+      "name": "Erith and Thamesmead",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ms Abena Oppong-Asare",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001230",
+      "slug": "esher-and-walton",
+      "name": "Esher and Walton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Monica Harding",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001231",
+      "slug": "exeter",
+      "name": "Exeter",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Steve Race",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001232",
+      "slug": "exmouth-and-exeter-east",
+      "name": "Exmouth and Exeter East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Reed",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000083",
+      "slug": "falkirk",
+      "name": "Falkirk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Euan Stainbank",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001233",
+      "slug": "fareham-and-waterlooville",
+      "name": "Fareham and Waterlooville",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Suella Braverman",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001234",
+      "slug": "farnham-and-bordon",
+      "name": "Farnham and Bordon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gregory Stafford",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001235",
+      "slug": "faversham-and-mid-kent",
+      "name": "Faversham and Mid Kent",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Helen Whately",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001236",
+      "slug": "feltham-and-heston",
+      "name": "Feltham and Heston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Seema Malhotra",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000007",
+      "slug": "fermanagh-and-south-tyrone",
+      "name": "Fermanagh and South Tyrone",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Pat Cullen",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001237",
+      "slug": "filton-and-bradley-stoke",
+      "name": "Filton and Bradley Stoke",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Claire Hazelgrove",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001238",
+      "slug": "finchley-and-golders-green",
+      "name": "Finchley and Golders Green",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Sackman",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001239",
+      "slug": "folkestone-and-hythe",
+      "name": "Folkestone and Hythe",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tony Vaughan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001240",
+      "slug": "forest-of-dean",
+      "name": "Forest of Dean",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Matt Bishop",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000008",
+      "slug": "foyle",
+      "name": "Foyle",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Colum Eastwood",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001241",
+      "slug": "frome-and-east-somerset",
+      "name": "Frome and East Somerset",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Anna Sabine",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001242",
+      "slug": "fylde",
+      "name": "Fylde",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Andrew Snowden",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001243",
+      "slug": "gainsborough",
+      "name": "Gainsborough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Edward Leigh",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001244",
+      "slug": "gateshead-central-and-whickham",
+      "name": "Gateshead Central and Whickham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mark Ferguson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001245",
+      "slug": "gedling",
+      "name": "Gedling",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Michael Payne",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001246",
+      "slug": "gillingham-and-rainham",
+      "name": "Gillingham and Rainham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Naushabah Khan",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000084",
+      "slug": "glasgow-east",
+      "name": "Glasgow East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Grady",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000085",
+      "slug": "glasgow-north",
+      "name": "Glasgow North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Martin Rhodes",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000086",
+      "slug": "glasgow-north-east",
+      "name": "Glasgow North East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Maureen Burke",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000087",
+      "slug": "glasgow-south",
+      "name": "Glasgow South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gordon McKee",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000088",
+      "slug": "glasgow-south-west",
+      "name": "Glasgow South West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Zubir Ahmed",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000089",
+      "slug": "glasgow-west",
+      "name": "Glasgow West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Patricia Ferguson",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001247",
+      "slug": "glastonbury-and-somerton",
+      "name": "Glastonbury and Somerton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Dyke",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000090",
+      "slug": "glenrothes-and-mid-fife",
+      "name": "Glenrothes and Mid Fife",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Richard Baker",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001248",
+      "slug": "gloucester",
+      "name": "Gloucester",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex McIntyre",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001249",
+      "slug": "godalming-and-ash",
+      "name": "Godalming and Ash",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Jeremy Hunt",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001250",
+      "slug": "goole-and-pocklington",
+      "name": "Goole and Pocklington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Davis",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000091",
+      "slug": "gordon-and-buchan",
+      "name": "Gordon and Buchan",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Harriet Cross",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001251",
+      "slug": "gorton-and-denton",
+      "name": "Gorton and Denton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Hannah Spencer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001252",
+      "slug": "gosport",
+      "name": "Gosport",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Caroline Dinenage",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000097",
+      "slug": "gower",
+      "name": "Gower",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tonia Antoniazzi",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001253",
+      "slug": "grantham-and-bourne",
+      "name": "Grantham and Bourne",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gareth Davies",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001254",
+      "slug": "gravesham",
+      "name": "Gravesham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Lauren Sullivan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001255",
+      "slug": "great-grimsby-and-cleethorpes",
+      "name": "Great Grimsby and Cleethorpes",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Melanie Onn",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001256",
+      "slug": "great-yarmouth",
+      "name": "Great Yarmouth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rupert Lowe",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001257",
+      "slug": "greenwich-and-woolwich",
+      "name": "Greenwich and Woolwich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Matthew Pennycook",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001258",
+      "slug": "guildford",
+      "name": "Guildford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Zöe Franklin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001259",
+      "slug": "hackney-north-and-stoke-newington",
+      "name": "Hackney North and Stoke Newington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ms Diane Abbott",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001260",
+      "slug": "hackney-south-and-shoreditch",
+      "name": "Hackney South and Shoreditch",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Meg Hillier",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001261",
+      "slug": "halesowen",
+      "name": "Halesowen",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Ballinger",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001262",
+      "slug": "halifax",
+      "name": "Halifax",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kate Dearden",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001263",
+      "slug": "hamble-valley",
+      "name": "Hamble Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Paul Holmes",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000092",
+      "slug": "hamilton-and-clyde-valley",
+      "name": "Hamilton and Clyde Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Imogen Walker",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001264",
+      "slug": "hammersmith-and-chiswick",
+      "name": "Hammersmith and Chiswick",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andy Slaughter",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001265",
+      "slug": "hampstead-and-highgate",
+      "name": "Hampstead and Highgate",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tulip Siddiq",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001266",
+      "slug": "harborough-oadby-and-wigston",
+      "name": "Harborough, Oadby and Wigston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Neil O'Brien",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001267",
+      "slug": "harlow",
+      "name": "Harlow",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Vince",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001268",
+      "slug": "harpenden-and-berkhamsted",
+      "name": "Harpenden and Berkhamsted",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Victoria Collins",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001269",
+      "slug": "harrogate-and-knaresborough",
+      "name": "Harrogate and Knaresborough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tom Gordon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001270",
+      "slug": "harrow-east",
+      "name": "Harrow East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Bob Blackman",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001271",
+      "slug": "harrow-west",
+      "name": "Harrow West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gareth Thomas",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001272",
+      "slug": "hartlepool",
+      "name": "Hartlepool",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Jonathan Brash",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001273",
+      "slug": "harwich-and-north-essex",
+      "name": "Harwich and North Essex",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Bernard Jenkin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001274",
+      "slug": "hastings-and-rye",
+      "name": "Hastings and Rye",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Helena Dollimore",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001275",
+      "slug": "havant",
+      "name": "Havant",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alan Mak",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001276",
+      "slug": "hayes-and-harlington",
+      "name": "Hayes and Harlington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John McDonnell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001277",
+      "slug": "hazel-grove",
+      "name": "Hazel Grove",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lisa Smart",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001278",
+      "slug": "hemel-hempstead",
+      "name": "Hemel Hempstead",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Taylor",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001279",
+      "slug": "hendon",
+      "name": "Hendon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Pinto-Duschinsky",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001280",
+      "slug": "henley-and-thame",
+      "name": "Henley and Thame",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Freddie van Mierlo",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001281",
+      "slug": "hereford-and-south-herefordshire",
+      "name": "Hereford and South Herefordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jesse Norman",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001282",
+      "slug": "herne-bay-and-sandwich",
+      "name": "Herne Bay and Sandwich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Roger Gale",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001283",
+      "slug": "hertford-and-stortford",
+      "name": "Hertford and Stortford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Josh Dean",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001284",
+      "slug": "hertsmere",
+      "name": "Hertsmere",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Oliver Dowden",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001285",
+      "slug": "hexham",
+      "name": "Hexham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Joe Morris",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001286",
+      "slug": "heywood-and-middleton-north",
+      "name": "Heywood and Middleton North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mrs Elsie Blundell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001287",
+      "slug": "high-peak",
+      "name": "High Peak",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jon Pearce",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001288",
+      "slug": "hinckley-and-bosworth",
+      "name": "Hinckley and Bosworth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Luke Evans",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001289",
+      "slug": "hitchin",
+      "name": "Hitchin",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alistair Strathern",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001290",
+      "slug": "holborn-and-st-pancras",
+      "name": "Holborn and St Pancras",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Keir Starmer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001291",
+      "slug": "honiton-and-sidmouth",
+      "name": "Honiton and Sidmouth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Richard Foord",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001292",
+      "slug": "hornchurch-and-upminster",
+      "name": "Hornchurch and Upminster",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Julia Lopez",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001293",
+      "slug": "hornsey-and-friern-barnet",
+      "name": "Hornsey and Friern Barnet",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Catherine West",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001294",
+      "slug": "horsham",
+      "name": "Horsham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Milne",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001295",
+      "slug": "houghton-and-sunderland-south",
+      "name": "Houghton and Sunderland South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Bridget Phillipson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001296",
+      "slug": "hove-and-portslade",
+      "name": "Hove and Portslade",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Peter Kyle",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001297",
+      "slug": "huddersfield",
+      "name": "Huddersfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Harpreet Uppal",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001298",
+      "slug": "huntingdon",
+      "name": "Huntingdon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ben Obese-Jecty",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001299",
+      "slug": "hyndburn",
+      "name": "Hyndburn",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001300",
+      "slug": "ilford-north",
+      "name": "Ilford North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Wes Streeting",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001301",
+      "slug": "ilford-south",
+      "name": "Ilford South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jas Athwal",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000093",
+      "slug": "inverclyde-and-renfrewshire-west",
+      "name": "Inverclyde and Renfrewshire West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Martin McCluskey",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000094",
+      "slug": "inverness-skye-and-west-ross-shire",
+      "name": "Inverness, Skye and West Ross-shire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Angus MacDonald",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001302",
+      "slug": "ipswich",
+      "name": "Ipswich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jack Abbott",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001303",
+      "slug": "isle-of-wight-east",
+      "name": "Isle of Wight East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Joe Robertson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001304",
+      "slug": "isle-of-wight-west",
+      "name": "Isle of Wight West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Richard Quigley",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001305",
+      "slug": "islington-north",
+      "name": "Islington North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jeremy Corbyn",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001306",
+      "slug": "islington-south-and-finsbury",
+      "name": "Islington South and Finsbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Emily Thornberry",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001307",
+      "slug": "jarrow-and-gateshead-east",
+      "name": "Jarrow and Gateshead East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kate Osborne",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001308",
+      "slug": "keighley-and-ilkley",
+      "name": "Keighley and Ilkley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Robbie Moore",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001309",
+      "slug": "kenilworth-and-southam",
+      "name": "Kenilworth and Southam",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Jeremy Wright",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001310",
+      "slug": "kensington-and-bayswater",
+      "name": "Kensington and Bayswater",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Joe Powell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001311",
+      "slug": "kettering",
+      "name": "Kettering",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rosie Wrighting",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000110",
+      "slug": "kilmarnock-and-loudoun",
+      "name": "Kilmarnock and Loudoun",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lillian Jones",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001312",
+      "slug": "kingston-and-surbiton",
+      "name": "Kingston and Surbiton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ed Davey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001313",
+      "slug": "kingston-upon-hull-east",
+      "name": "Kingston upon Hull East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Karl Turner",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001314",
+      "slug": "kingston-upon-hull-north-and-cottingham",
+      "name": "Kingston upon Hull North and Cottingham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Diana Johnson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001315",
+      "slug": "kingston-upon-hull-west-and-haltemprice",
+      "name": "Kingston upon Hull West and Haltemprice",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Emma Hardy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001316",
+      "slug": "kingswinford-and-south-staffordshire",
+      "name": "Kingswinford and South Staffordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mike Wood",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001317",
+      "slug": "knowsley",
+      "name": "Knowsley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Anneliese Midgley",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000009",
+      "slug": "lagan-valley",
+      "name": "Lagan Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sorcha Eastwood",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001318",
+      "slug": "lancaster-and-wyre",
+      "name": "Lancaster and Wyre",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Cat Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001319",
+      "slug": "leeds-central-and-headingley",
+      "name": "Leeds Central and Headingley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Sobel",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001320",
+      "slug": "leeds-east",
+      "name": "Leeds East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Richard Burgon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001321",
+      "slug": "leeds-north-east",
+      "name": "Leeds North East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Fabian Hamilton",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001322",
+      "slug": "leeds-north-west",
+      "name": "Leeds North West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Katie White",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001323",
+      "slug": "leeds-south",
+      "name": "Leeds South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Hilary Benn",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001324",
+      "slug": "leeds-south-west-and-morley",
+      "name": "Leeds South West and Morley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mark Sewards",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001325",
+      "slug": "leeds-west-and-pudsey",
+      "name": "Leeds West and Pudsey",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rachel Reeves",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001326",
+      "slug": "leicester-east",
+      "name": "Leicester East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Shivani Raja",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001327",
+      "slug": "leicester-south",
+      "name": "Leicester South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Shockat Adam",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001328",
+      "slug": "leicester-west",
+      "name": "Leicester West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Liz Kendall",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001329",
+      "slug": "leigh-and-atherton",
+      "name": "Leigh and Atherton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jo Platt",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001330",
+      "slug": "lewes",
+      "name": "Lewes",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "James MacCleary",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001331",
+      "slug": "lewisham-east",
+      "name": "Lewisham East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Janet Daby",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001332",
+      "slug": "lewisham-north",
+      "name": "Lewisham North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Vicky Foxcroft",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001333",
+      "slug": "lewisham-west-and-east-dulwich",
+      "name": "Lewisham West and East Dulwich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ellie Reeves",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001334",
+      "slug": "leyton-and-wanstead",
+      "name": "Leyton and Wanstead",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Calvin Bailey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001335",
+      "slug": "lichfield",
+      "name": "Lichfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dave Robertson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001336",
+      "slug": "lincoln",
+      "name": "Lincoln",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Hamish Falconer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001337",
+      "slug": "liverpool-garston",
+      "name": "Liverpool Garston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Maria Eagle",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001338",
+      "slug": "liverpool-riverside",
+      "name": "Liverpool Riverside",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kim Johnson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001339",
+      "slug": "liverpool-walton",
+      "name": "Liverpool Walton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dan Carden",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001340",
+      "slug": "liverpool-wavertree",
+      "name": "Liverpool Wavertree",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Paula Barker",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001341",
+      "slug": "liverpool-west-derby",
+      "name": "Liverpool West Derby",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ian Byrne",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000095",
+      "slug": "livingston",
+      "name": "Livingston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gregor Poynton",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "W07000098",
+      "slug": "llanelli",
+      "name": "Llanelli",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Nia Griffith",
+        "Wales"
+      ]
+    },
+    {
+      "id": "S14000096",
+      "slug": "lothian-east",
+      "name": "Lothian East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Douglas Alexander",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001342",
+      "slug": "loughborough",
+      "name": "Loughborough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Jeevun Sandher",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001343",
+      "slug": "louth-and-horncastle",
+      "name": "Louth and Horncastle",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Victoria Atkins",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001344",
+      "slug": "lowestoft",
+      "name": "Lowestoft",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jess Asato",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001345",
+      "slug": "luton-north",
+      "name": "Luton North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Owen",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001346",
+      "slug": "luton-south-and-south-bedfordshire",
+      "name": "Luton South and South Bedfordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rachel Hopkins",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001347",
+      "slug": "macclesfield",
+      "name": "Macclesfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tim Roca",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001348",
+      "slug": "maidenhead",
+      "name": "Maidenhead",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Joshua Reynolds",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001349",
+      "slug": "maidstone-and-malling",
+      "name": "Maidstone and Malling",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Helen Grant",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001350",
+      "slug": "makerfield",
+      "name": "Makerfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Josh Simons",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001351",
+      "slug": "maldon",
+      "name": "Maldon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir John Whittingdale",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001352",
+      "slug": "manchester-central",
+      "name": "Manchester Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lucy Powell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001353",
+      "slug": "manchester-rusholme",
+      "name": "Manchester Rusholme",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Afzal Khan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001354",
+      "slug": "manchester-withington",
+      "name": "Manchester Withington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jeff Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001355",
+      "slug": "mansfield",
+      "name": "Mansfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Steve Yemm",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001356",
+      "slug": "melksham-and-devizes",
+      "name": "Melksham and Devizes",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Brian Mathew",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001357",
+      "slug": "melton-and-syston",
+      "name": "Melton and Syston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Edward Argar",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001358",
+      "slug": "meriden-and-solihull-east",
+      "name": "Meriden and Solihull East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Saqib Bhatti",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000099",
+      "slug": "merthyr-tydfil-and-aberdare",
+      "name": "Merthyr Tydfil and Aberdare",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gerald Jones",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000100",
+      "slug": "mid-and-south-pembrokeshire",
+      "name": "Mid and South Pembrokeshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Henry Tufnell",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001359",
+      "slug": "mid-bedfordshire",
+      "name": "Mid Bedfordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Blake Stephenson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001360",
+      "slug": "mid-buckinghamshire",
+      "name": "Mid Buckinghamshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Greg Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001361",
+      "slug": "mid-cheshire",
+      "name": "Mid Cheshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Cooper",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001362",
+      "slug": "mid-derbyshire",
+      "name": "Mid Derbyshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jonathan Davies",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001363",
+      "slug": "mid-dorset-and-north-poole",
+      "name": "Mid Dorset and North Poole",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Vikki Slade",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000097",
+      "slug": "mid-dunbartonshire",
+      "name": "Mid Dunbartonshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Susan Murray",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001364",
+      "slug": "mid-leicestershire",
+      "name": "Mid Leicestershire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Peter Bedford",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001365",
+      "slug": "mid-norfolk",
+      "name": "Mid Norfolk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "George Freeman",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001366",
+      "slug": "mid-sussex",
+      "name": "Mid Sussex",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alison Bennett",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000010",
+      "slug": "mid-ulster",
+      "name": "Mid Ulster",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Cathal Mallaghan",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001367",
+      "slug": "middlesbrough-and-thornaby-east",
+      "name": "Middlesbrough and Thornaby East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andy McDonald",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001368",
+      "slug": "middlesbrough-south-and-east-cleveland",
+      "name": "Middlesbrough South and East Cleveland",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Luke Myer",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000045",
+      "slug": "midlothian",
+      "name": "Midlothian",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kirsty McNeill",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001369",
+      "slug": "milton-keynes-central",
+      "name": "Milton Keynes Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Emily Darlington",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001370",
+      "slug": "milton-keynes-north",
+      "name": "Milton Keynes North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Curtis",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001371",
+      "slug": "mitcham-and-morden",
+      "name": "Mitcham and Morden",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Siobhain McDonagh",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000101",
+      "slug": "monmouthshire",
+      "name": "Monmouthshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Catherine Fookes",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000102",
+      "slug": "montgomeryshire-and-glyndwr",
+      "name": "Montgomeryshire and Glyndwr",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Steve Witherden",
+        "Wales"
+      ]
+    },
+    {
+      "id": "S14000098",
+      "slug": "moray-west-nairn-and-strathspey",
+      "name": "Moray West, Nairn and Strathspey",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Graham Leadbitter",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001372",
+      "slug": "morecambe-and-lunesdale",
+      "name": "Morecambe and Lunesdale",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lizzi Collinge",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000099",
+      "slug": "motherwell-wishaw-and-carluke",
+      "name": "Motherwell, Wishaw and Carluke",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Pamela Nash",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000027",
+      "slug": "na-h-eileanan-an-iar",
+      "name": "Na h-Eileanan an Iar",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Torcuil Crichton",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "W07000103",
+      "slug": "neath-and-swansea-east",
+      "name": "Neath and Swansea East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Carolyn Harris",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001373",
+      "slug": "new-forest-east",
+      "name": "New Forest East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Julian Lewis",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001374",
+      "slug": "new-forest-west",
+      "name": "New Forest West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Desmond Swayne",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001375",
+      "slug": "newark",
+      "name": "Newark",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Robert Jenrick",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001376",
+      "slug": "newbury",
+      "name": "Newbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Lee Dillon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001377",
+      "slug": "newcastle-upon-tyne-central-and-west",
+      "name": "Newcastle upon Tyne Central and West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Chi Onwurah",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001378",
+      "slug": "newcastle-upon-tyne-east-and-wallsend",
+      "name": "Newcastle upon Tyne East and Wallsend",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mary Glindon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001379",
+      "slug": "newcastle-upon-tyne-north",
+      "name": "Newcastle upon Tyne North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Catherine McKinnell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001380",
+      "slug": "newcastle-under-lyme",
+      "name": "Newcastle-under-Lyme",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Adam Jogee",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000104",
+      "slug": "newport-east",
+      "name": "Newport East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jessica Morden",
+        "Wales"
+      ]
+    },
+    {
+      "id": "W07000105",
+      "slug": "newport-west-and-islwyn",
+      "name": "Newport West and Islwyn",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ruth Jones",
+        "Wales"
+      ]
+    },
+    {
+      "id": "N05000011",
+      "slug": "newry-and-armagh",
+      "name": "Newry and Armagh",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dáire Hughes",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001381",
+      "slug": "newton-abbot",
+      "name": "Newton Abbot",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Martin Wrigley",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001382",
+      "slug": "newton-aycliffe-and-spennymoor",
+      "name": "Newton Aycliffe and Spennymoor",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alan Strickland",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001383",
+      "slug": "normanton-and-hemsworth",
+      "name": "Normanton and Hemsworth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jon Trickett",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000012",
+      "slug": "north-antrim",
+      "name": "North Antrim",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jim Allister",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "S14000048",
+      "slug": "north-ayrshire-and-arran",
+      "name": "North Ayrshire and Arran",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Irene Campbell",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001384",
+      "slug": "north-bedfordshire",
+      "name": "North Bedfordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Richard Fuller",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001385",
+      "slug": "north-cornwall",
+      "name": "North Cornwall",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ben Maguire",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001386",
+      "slug": "north-cotswolds",
+      "name": "North Cotswolds",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Geoffrey Clifton-Brown",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001387",
+      "slug": "north-devon",
+      "name": "North Devon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ian Roome",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001388",
+      "slug": "north-dorset",
+      "name": "North Dorset",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Simon Hoare",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000013",
+      "slug": "north-down",
+      "name": "North Down",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Easton",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001389",
+      "slug": "north-durham",
+      "name": "North Durham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Luke Akehurst",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001390",
+      "slug": "north-east-cambridgeshire",
+      "name": "North East Cambridgeshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Steve Barclay",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001391",
+      "slug": "north-east-derbyshire",
+      "name": "North East Derbyshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Louise Sandher-Jones",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000100",
+      "slug": "north-east-fife",
+      "name": "North East Fife",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Wendy Chamberlain",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001392",
+      "slug": "north-east-hampshire",
+      "name": "North East Hampshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Brewer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001393",
+      "slug": "north-east-hertfordshire",
+      "name": "North East Hertfordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Hinchliff",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001394",
+      "slug": "north-east-somerset-and-hanham",
+      "name": "North East Somerset and Hanham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dan Norris",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001395",
+      "slug": "north-herefordshire",
+      "name": "North Herefordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Ellie Chowns",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001396",
+      "slug": "north-norfolk",
+      "name": "North Norfolk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Steff Aquarone",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001397",
+      "slug": "north-northumberland",
+      "name": "North Northumberland",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001398",
+      "slug": "north-shropshire",
+      "name": "North Shropshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Helen Morgan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001399",
+      "slug": "north-somerset",
+      "name": "North Somerset",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sadik Al-Hassan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001400",
+      "slug": "north-warwickshire-and-bedworth",
+      "name": "North Warwickshire and Bedworth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rachel Taylor",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001401",
+      "slug": "north-west-cambridgeshire",
+      "name": "North West Cambridgeshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sam Carling",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001402",
+      "slug": "north-west-essex",
+      "name": "North West Essex",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mrs Kemi Badenoch",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001403",
+      "slug": "north-west-hampshire",
+      "name": "North West Hampshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kit Malthouse",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001404",
+      "slug": "north-west-leicestershire",
+      "name": "North West Leicestershire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Amanda Hack",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001405",
+      "slug": "north-west-norfolk",
+      "name": "North West Norfolk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "James Wild",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001406",
+      "slug": "northampton-north",
+      "name": "Northampton North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lucy Rigby",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001407",
+      "slug": "northampton-south",
+      "name": "Northampton South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mike Reader",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001408",
+      "slug": "norwich-north",
+      "name": "Norwich North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alice Macdonald",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001409",
+      "slug": "norwich-south",
+      "name": "Norwich South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Clive Lewis",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001410",
+      "slug": "nottingham-east",
+      "name": "Nottingham East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Nadia Whittome",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001411",
+      "slug": "nottingham-north-and-kimberley",
+      "name": "Nottingham North and Kimberley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Norris",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001412",
+      "slug": "nottingham-south",
+      "name": "Nottingham South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lilian Greenwood",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001413",
+      "slug": "nuneaton",
+      "name": "Nuneaton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jodie Gosling",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001414",
+      "slug": "old-bexley-and-sidcup",
+      "name": "Old Bexley and Sidcup",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Louie French",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001415",
+      "slug": "oldham-east-and-saddleworth",
+      "name": "Oldham East and Saddleworth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Debbie Abrahams",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001416",
+      "slug": "oldham-west-chadderton-and-royton",
+      "name": "Oldham West, Chadderton and Royton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jim McMahon",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000051",
+      "slug": "orkney-and-shetland",
+      "name": "Orkney and Shetland",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Alistair Carmichael",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001417",
+      "slug": "orpington",
+      "name": "Orpington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gareth Bacon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001418",
+      "slug": "ossett-and-denby-dale",
+      "name": "Ossett and Denby Dale",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jade Botterill",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001419",
+      "slug": "oxford-east",
+      "name": "Oxford East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Anneliese Dodds",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001420",
+      "slug": "oxford-west-and-abingdon",
+      "name": "Oxford West and Abingdon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Layla Moran",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000101",
+      "slug": "paisley-and-renfrewshire-north",
+      "name": "Paisley and Renfrewshire North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alison Taylor",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "S14000102",
+      "slug": "paisley-and-renfrewshire-south",
+      "name": "Paisley and Renfrewshire South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Johanna Baxter",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001421",
+      "slug": "peckham",
+      "name": "Peckham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Miatta Fahnbulleh",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001422",
+      "slug": "pendle-and-clitheroe",
+      "name": "Pendle and Clitheroe",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jonathan Hinder",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001423",
+      "slug": "penistone-and-stocksbridge",
+      "name": "Penistone and Stocksbridge",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Marie Tidball",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001424",
+      "slug": "penrith-and-solway",
+      "name": "Penrith and Solway",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Markus Campbell-Savours",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000103",
+      "slug": "perth-and-kinross-shire",
+      "name": "Perth and Kinross-shire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Pete Wishart",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001425",
+      "slug": "peterborough",
+      "name": "Peterborough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Pakes",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001426",
+      "slug": "plymouth-moor-view",
+      "name": "Plymouth Moor View",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Fred Thomas",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001427",
+      "slug": "plymouth-sutton-and-devonport",
+      "name": "Plymouth Sutton and Devonport",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Luke Pollard",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001428",
+      "slug": "pontefract-castleford-and-knottingley",
+      "name": "Pontefract, Castleford and Knottingley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Yvette Cooper",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000106",
+      "slug": "pontypridd",
+      "name": "Pontypridd",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alex Davies-Jones",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001429",
+      "slug": "poole",
+      "name": "Poole",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Neil Duncan-Jordan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001430",
+      "slug": "poplar-and-limehouse",
+      "name": "Poplar and Limehouse",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Apsana Begum",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001431",
+      "slug": "portsmouth-north",
+      "name": "Portsmouth North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Amanda Martin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001432",
+      "slug": "portsmouth-south",
+      "name": "Portsmouth South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stephen Morgan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001433",
+      "slug": "preston",
+      "name": "Preston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Mark Hendrick",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001434",
+      "slug": "putney",
+      "name": "Putney",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Fleur Anderson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001435",
+      "slug": "queens-park-and-maida-vale",
+      "name": "Queen's Park and Maida Vale",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Georgia Gould",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001436",
+      "slug": "rawmarsh-and-conisbrough",
+      "name": "Rawmarsh and Conisbrough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Healey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001437",
+      "slug": "rayleigh-and-wickford",
+      "name": "Rayleigh and Wickford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Mark Francois",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001438",
+      "slug": "reading-central",
+      "name": "Reading Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Matt Rodda",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001439",
+      "slug": "reading-west-and-mid-berkshire",
+      "name": "Reading West and Mid Berkshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Olivia Bailey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001440",
+      "slug": "redcar",
+      "name": "Redcar",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Anna Turley",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001441",
+      "slug": "redditch",
+      "name": "Redditch",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Bloore",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001442",
+      "slug": "reigate",
+      "name": "Reigate",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rebecca Paul",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000107",
+      "slug": "rhondda-and-ogmore",
+      "name": "Rhondda and Ogmore",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Bryant",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001443",
+      "slug": "ribble-valley",
+      "name": "Ribble Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Maya Ellis",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001444",
+      "slug": "richmond-and-northallerton",
+      "name": "Richmond and Northallerton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rishi Sunak",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001445",
+      "slug": "richmond-park",
+      "name": "Richmond Park",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Olney",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001446",
+      "slug": "rochdale",
+      "name": "Rochdale",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Paul Waugh",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001447",
+      "slug": "rochester-and-strood",
+      "name": "Rochester and Strood",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lauren Edwards",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001448",
+      "slug": "romford",
+      "name": "Romford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Rosindell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001449",
+      "slug": "romsey-and-southampton-north",
+      "name": "Romsey and Southampton North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Caroline Nokes",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001450",
+      "slug": "rossendale-and-darwen",
+      "name": "Rossendale and Darwen",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andy MacNae",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001451",
+      "slug": "rother-valley",
+      "name": "Rother Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jake Richards",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001452",
+      "slug": "rotherham",
+      "name": "Rotherham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Champion",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001453",
+      "slug": "rugby",
+      "name": "Rugby",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Slinger",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001454",
+      "slug": "ruislip-northwood-and-pinner",
+      "name": "Ruislip, Northwood and Pinner",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Simmonds",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001455",
+      "slug": "runcorn-and-helsby",
+      "name": "Runcorn and Helsby",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Pochin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001456",
+      "slug": "runnymede-and-weybridge",
+      "name": "Runnymede and Weybridge",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Ben Spencer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001457",
+      "slug": "rushcliffe",
+      "name": "Rushcliffe",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "James Naish",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000104",
+      "slug": "rutherglen",
+      "name": "Rutherglen",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Michael Shanks",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001458",
+      "slug": "rutland-and-stamford",
+      "name": "Rutland and Stamford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alicia Kearns",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001459",
+      "slug": "salford",
+      "name": "Salford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rebecca Long Bailey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001460",
+      "slug": "salisbury",
+      "name": "Salisbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "John Glen",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001461",
+      "slug": "scarborough-and-whitby",
+      "name": "Scarborough and Whitby",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alison Hume",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001462",
+      "slug": "scunthorpe",
+      "name": "Scunthorpe",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Nicholas Dakin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001463",
+      "slug": "sefton-central",
+      "name": "Sefton Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Bill Esterson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001464",
+      "slug": "selby",
+      "name": "Selby",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Keir Mather",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001465",
+      "slug": "sevenoaks",
+      "name": "Sevenoaks",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Laura Trott",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001466",
+      "slug": "sheffield-brightside-and-hillsborough",
+      "name": "Sheffield Brightside and Hillsborough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gill Furniss",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001467",
+      "slug": "sheffield-central",
+      "name": "Sheffield Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Abtisam Mohamed",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001468",
+      "slug": "sheffield-hallam",
+      "name": "Sheffield Hallam",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Olivia Blake",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001469",
+      "slug": "sheffield-heeley",
+      "name": "Sheffield Heeley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Louise Haigh",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001470",
+      "slug": "sheffield-south-east",
+      "name": "Sheffield South East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Clive Betts",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001471",
+      "slug": "sherwood-forest",
+      "name": "Sherwood Forest",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Michelle Welsh",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001472",
+      "slug": "shipley",
+      "name": "Shipley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Anna Dixon",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001473",
+      "slug": "shrewsbury",
+      "name": "Shrewsbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Julia Buckley",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001474",
+      "slug": "sittingbourne-and-sheppey",
+      "name": "Sittingbourne and Sheppey",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kevin McKenna",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001475",
+      "slug": "skipton-and-ripon",
+      "name": "Skipton and Ripon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Julian Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001476",
+      "slug": "sleaford-and-north-hykeham",
+      "name": "Sleaford and North Hykeham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Caroline Johnson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001477",
+      "slug": "slough",
+      "name": "Slough",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Tanmanjeet Singh Dhesi",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001478",
+      "slug": "smethwick",
+      "name": "Smethwick",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gurinder Singh Josan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001479",
+      "slug": "solihull-west-and-shirley",
+      "name": "Solihull West and Shirley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Neil Shastri-Hurst",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000014",
+      "slug": "south-antrim",
+      "name": "South Antrim",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Robin Swann",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001480",
+      "slug": "south-basildon-and-east-thurrock",
+      "name": "South Basildon and East Thurrock",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "James McMurdock",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001481",
+      "slug": "south-cambridgeshire",
+      "name": "South Cambridgeshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Pippa Heylings",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001482",
+      "slug": "south-cotswolds",
+      "name": "South Cotswolds",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Roz Savage",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001483",
+      "slug": "south-derbyshire",
+      "name": "South Derbyshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Samantha Niblett",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001484",
+      "slug": "south-devon",
+      "name": "South Devon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Caroline Voaden",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001485",
+      "slug": "south-dorset",
+      "name": "South Dorset",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lloyd Hatton",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000015",
+      "slug": "south-down",
+      "name": "South Down",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Hazzard",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001486",
+      "slug": "south-east-cornwall",
+      "name": "South East Cornwall",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Anna Gelderd",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001487",
+      "slug": "south-holland-and-the-deepings",
+      "name": "South Holland and The Deepings",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir John Hayes",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001488",
+      "slug": "south-leicestershire",
+      "name": "South Leicestershire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Alberto Costa",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001489",
+      "slug": "south-norfolk",
+      "name": "South Norfolk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ben Goldsborough",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001490",
+      "slug": "south-northamptonshire",
+      "name": "South Northamptonshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Bool",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001491",
+      "slug": "south-ribble",
+      "name": "South Ribble",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Paul Foster",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001492",
+      "slug": "south-shields",
+      "name": "South Shields",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Emma Lewell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001493",
+      "slug": "south-shropshire",
+      "name": "South Shropshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Stuart Anderson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001494",
+      "slug": "south-suffolk",
+      "name": "South Suffolk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "James Cartlidge",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001495",
+      "slug": "south-west-devon",
+      "name": "South West Devon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rebecca Smith",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001496",
+      "slug": "south-west-hertfordshire",
+      "name": "South West Hertfordshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Gagan Mohindra",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001497",
+      "slug": "south-west-norfolk",
+      "name": "South West Norfolk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Terry Jermy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001498",
+      "slug": "south-west-wiltshire",
+      "name": "South West Wiltshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Andrew Murrison",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001499",
+      "slug": "southampton-itchen",
+      "name": "Southampton Itchen",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Darren Paffey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001500",
+      "slug": "southampton-test",
+      "name": "Southampton Test",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Satvir Kaur",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001501",
+      "slug": "southend-east-and-rochford",
+      "name": "Southend East and Rochford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Bayo Alaba",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001502",
+      "slug": "southend-west-and-leigh",
+      "name": "Southend West and Leigh",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Burton-Sampson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001503",
+      "slug": "southgate-and-wood-green",
+      "name": "Southgate and Wood Green",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Bambos Charalambous",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001504",
+      "slug": "southport",
+      "name": "Southport",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Patrick Hurley",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001505",
+      "slug": "spelthorne",
+      "name": "Spelthorne",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lincoln Jopp",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001506",
+      "slug": "spen-valley",
+      "name": "Spen Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kim Leadbeater",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001507",
+      "slug": "st-albans",
+      "name": "St Albans",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Daisy Cooper",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001508",
+      "slug": "st-austell-and-newquay",
+      "name": "St Austell and Newquay",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Noah Law",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001509",
+      "slug": "st-helens-north",
+      "name": "St Helens North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Baines",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001510",
+      "slug": "st-helens-south-and-whiston",
+      "name": "St Helens South and Whiston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ms Marie Rimmer",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001511",
+      "slug": "st-ives",
+      "name": "St Ives",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew George",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001512",
+      "slug": "st-neots-and-mid-cambridgeshire",
+      "name": "St Neots and Mid Cambridgeshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ian Sollom",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001513",
+      "slug": "stafford",
+      "name": "Stafford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Leigh Ingham",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001514",
+      "slug": "staffordshire-moorlands",
+      "name": "Staffordshire Moorlands",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Karen Bradley",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001515",
+      "slug": "stalybridge-and-hyde",
+      "name": "Stalybridge and Hyde",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jonathan Reynolds",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001516",
+      "slug": "stevenage",
+      "name": "Stevenage",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kevin Bonavia",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000105",
+      "slug": "stirling-and-strathallan",
+      "name": "Stirling and Strathallan",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris Kane",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001517",
+      "slug": "stockport",
+      "name": "Stockport",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Navendu Mishra",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001518",
+      "slug": "stockton-north",
+      "name": "Stockton North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Chris McDonald",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001519",
+      "slug": "stockton-west",
+      "name": "Stockton West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Matt Vickers",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001520",
+      "slug": "stoke-on-trent-central",
+      "name": "Stoke-on-Trent Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gareth Snell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001521",
+      "slug": "stoke-on-trent-north",
+      "name": "Stoke-on-Trent North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "David Williams",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001522",
+      "slug": "stoke-on-trent-south",
+      "name": "Stoke-on-Trent South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Allison Gardner",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001523",
+      "slug": "stone-great-wyrley-and-penkridge",
+      "name": "Stone, Great Wyrley and Penkridge",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Gavin Williamson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001524",
+      "slug": "stourbridge",
+      "name": "Stourbridge",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Cat Eccles",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000016",
+      "slug": "strangford",
+      "name": "Strangford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jim Shannon",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001525",
+      "slug": "stratford-and-bow",
+      "name": "Stratford and Bow",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Uma Kumaran",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001526",
+      "slug": "stratford-on-avon",
+      "name": "Stratford-on-Avon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Manuela Perteghella",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001527",
+      "slug": "streatham-and-croydon-north",
+      "name": "Streatham and Croydon North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Steve Reed",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001528",
+      "slug": "stretford-and-urmston",
+      "name": "Stretford and Urmston",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Western",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001529",
+      "slug": "stroud",
+      "name": "Stroud",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Simon Opher",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001530",
+      "slug": "suffolk-coastal",
+      "name": "Suffolk Coastal",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jenny Riddell-Carpenter",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001531",
+      "slug": "sunderland-central",
+      "name": "Sunderland Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lewis Atkinson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001532",
+      "slug": "surrey-heath",
+      "name": "Surrey Heath",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Al Pinkerton",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001533",
+      "slug": "sussex-weald",
+      "name": "Sussex Weald",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ms Nusrat Ghani",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001534",
+      "slug": "sutton-and-cheam",
+      "name": "Sutton and Cheam",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Luke Taylor",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001535",
+      "slug": "sutton-coldfield",
+      "name": "Sutton Coldfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Andrew Mitchell",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000108",
+      "slug": "swansea-west",
+      "name": "Swansea West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Torsten Bell",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001536",
+      "slug": "swindon-north",
+      "name": "Swindon North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Will Stone",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001537",
+      "slug": "swindon-south",
+      "name": "Swindon South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Heidi Alexander",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001538",
+      "slug": "tamworth",
+      "name": "Tamworth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Edwards",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001539",
+      "slug": "tatton",
+      "name": "Tatton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Esther McVey",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001540",
+      "slug": "taunton-and-wellington",
+      "name": "Taunton and Wellington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gideon Amos",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001541",
+      "slug": "telford",
+      "name": "Telford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Shaun Davies",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001542",
+      "slug": "tewkesbury",
+      "name": "Tewkesbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Cameron Thomas",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001543",
+      "slug": "the-wrekin",
+      "name": "The Wrekin",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mark Pritchard",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001544",
+      "slug": "thirsk-and-malton",
+      "name": "Thirsk and Malton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kevin Hollinrake",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001545",
+      "slug": "thornbury-and-yate",
+      "name": "Thornbury and Yate",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Claire Young",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001546",
+      "slug": "thurrock",
+      "name": "Thurrock",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jen Craft",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001547",
+      "slug": "tipton-and-wednesbury",
+      "name": "Tipton and Wednesbury",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Antonia Bance",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001548",
+      "slug": "tiverton-and-minehead",
+      "name": "Tiverton and Minehead",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rachel Gilmour",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001549",
+      "slug": "tonbridge",
+      "name": "Tonbridge",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tom Tugendhat",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001550",
+      "slug": "tooting",
+      "name": "Tooting",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Rosena Allin-Khan",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001551",
+      "slug": "torbay",
+      "name": "Torbay",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Steve Darling",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000109",
+      "slug": "torfaen",
+      "name": "Torfaen",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Nick Thomas-Symonds",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001552",
+      "slug": "torridge-and-tavistock",
+      "name": "Torridge and Tavistock",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Geoffrey Cox",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001553",
+      "slug": "tottenham",
+      "name": "Tottenham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr David Lammy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001554",
+      "slug": "truro-and-falmouth",
+      "name": "Truro and Falmouth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jayne Kirkham",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001555",
+      "slug": "tunbridge-wells",
+      "name": "Tunbridge Wells",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mike Martin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001556",
+      "slug": "twickenham",
+      "name": "Twickenham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Munira Wilson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001557",
+      "slug": "tynemouth",
+      "name": "Tynemouth",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Alan Campbell",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000017",
+      "slug": "upper-bann",
+      "name": "Upper Bann",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Carla Lockhart",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001558",
+      "slug": "uxbridge-and-south-ruislip",
+      "name": "Uxbridge and South Ruislip",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Danny Beales",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000110",
+      "slug": "vale-of-glamorgan",
+      "name": "Vale of Glamorgan",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Kanishka Narayan",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001559",
+      "slug": "vauxhall-and-camberwell-green",
+      "name": "Vauxhall and Camberwell Green",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Florence Eshalomi",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001560",
+      "slug": "wakefield-and-rothwell",
+      "name": "Wakefield and Rothwell",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Simon Lightwood",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001561",
+      "slug": "wallasey",
+      "name": "Wallasey",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Angela Eagle",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001562",
+      "slug": "walsall-and-bloxwich",
+      "name": "Walsall and Bloxwich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Valerie Vaz",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001563",
+      "slug": "walthamstow",
+      "name": "Walthamstow",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ms Stella Creasy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001564",
+      "slug": "warrington-north",
+      "name": "Warrington North",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Charlotte Nichols",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001565",
+      "slug": "warrington-south",
+      "name": "Warrington South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Hall",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001566",
+      "slug": "warwick-and-leamington",
+      "name": "Warwick and Leamington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Matt Western",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001567",
+      "slug": "washington-and-gateshead-south",
+      "name": "Washington and Gateshead South",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mrs Sharon Hodgson",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001568",
+      "slug": "watford",
+      "name": "Watford",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Matt Turmaine",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001569",
+      "slug": "waveney-valley",
+      "name": "Waveney Valley",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Adrian Ramsay",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001570",
+      "slug": "weald-of-kent",
+      "name": "Weald of Kent",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Katie Lam",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001571",
+      "slug": "wellingborough-and-rushden",
+      "name": "Wellingborough and Rushden",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Gen Kitchen",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001572",
+      "slug": "wells-and-mendip-hills",
+      "name": "Wells and Mendip Hills",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tessa Munt",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001573",
+      "slug": "welwyn-hatfield",
+      "name": "Welwyn Hatfield",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Lewin",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000111",
+      "slug": "west-aberdeenshire-and-kincardine",
+      "name": "West Aberdeenshire and Kincardine",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Bowie",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001574",
+      "slug": "west-bromwich",
+      "name": "West Bromwich",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sarah Coombes",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001575",
+      "slug": "west-dorset",
+      "name": "West Dorset",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Edward Morello",
+        "England"
+      ]
+    },
+    {
+      "id": "S14000106",
+      "slug": "west-dunbartonshire",
+      "name": "West Dunbartonshire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Douglas McAllister",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "E14001576",
+      "slug": "west-ham-and-beckton",
+      "name": "West Ham and Beckton",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "James Asser",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001577",
+      "slug": "west-lancashire",
+      "name": "West Lancashire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Ashley Dalton",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001578",
+      "slug": "west-suffolk",
+      "name": "West Suffolk",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Nick Timothy",
+        "England"
+      ]
+    },
+    {
+      "id": "N05000018",
+      "slug": "west-tyrone",
+      "name": "West Tyrone",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Órfhlaith Begley",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "id": "E14001579",
+      "slug": "west-worcestershire",
+      "name": "West Worcestershire",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dame Harriett Baldwin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001580",
+      "slug": "westmorland-and-lonsdale",
+      "name": "Westmorland and Lonsdale",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tim Farron",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001581",
+      "slug": "weston-super-mare",
+      "name": "Weston-super-Mare",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dan Aldridge",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001582",
+      "slug": "wetherby-and-easingwold",
+      "name": "Wetherby and Easingwold",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sir Alec Shelbrooke",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001583",
+      "slug": "whitehaven-and-workington",
+      "name": "Whitehaven and Workington",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Josh MacAlister",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001584",
+      "slug": "widnes-and-halewood",
+      "name": "Widnes and Halewood",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Derek Twigg",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001585",
+      "slug": "wigan",
+      "name": "Wigan",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Lisa Nandy",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001586",
+      "slug": "wimbledon",
+      "name": "Wimbledon",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Paul Kohler",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001587",
+      "slug": "winchester",
+      "name": "Winchester",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Danny Chambers",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001588",
+      "slug": "windsor",
+      "name": "Windsor",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Jack Rankin",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001589",
+      "slug": "wirral-west",
+      "name": "Wirral West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Matthew Patrick",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001590",
+      "slug": "witham",
+      "name": "Witham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Priti Patel",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001591",
+      "slug": "witney",
+      "name": "Witney",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Charlie Maynard",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001592",
+      "slug": "woking",
+      "name": "Woking",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Will Forster",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001593",
+      "slug": "wokingham",
+      "name": "Wokingham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Clive Jones",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001594",
+      "slug": "wolverhampton-north-east",
+      "name": "Wolverhampton North East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Sureena Brackenridge",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001595",
+      "slug": "wolverhampton-south-east",
+      "name": "Wolverhampton South East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Pat McFadden",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001596",
+      "slug": "wolverhampton-west",
+      "name": "Wolverhampton West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Warinder Juss",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001597",
+      "slug": "worcester",
+      "name": "Worcester",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Tom Collins",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001598",
+      "slug": "worsley-and-eccles",
+      "name": "Worsley and Eccles",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Michael Wheeler",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001599",
+      "slug": "worthing-west",
+      "name": "Worthing West",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Dr Beccy Cooper",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000111",
+      "slug": "wrexham",
+      "name": "Wrexham",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Andrew Ranger",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001600",
+      "slug": "wycombe",
+      "name": "Wycombe",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Emma Reynolds",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001601",
+      "slug": "wyre-forest",
+      "name": "Wyre Forest",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mark Garnier",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001602",
+      "slug": "wythenshawe-and-sale-east",
+      "name": "Wythenshawe and Sale East",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mike Kane",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001603",
+      "slug": "yeovil",
+      "name": "Yeovil",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Adam Dance",
+        "England"
+      ]
+    },
+    {
+      "id": "W07000112",
+      "slug": "ynys-mo-n",
+      "name": "Ynys Môn",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Llinos Medi",
+        "Wales"
+      ]
+    },
+    {
+      "id": "E14001604",
+      "slug": "york-central",
+      "name": "York Central",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Rachael Maskell",
+        "England"
+      ]
+    },
+    {
+      "id": "E14001605",
+      "slug": "york-outer",
+      "name": "York Outer",
+      "type": "constituency",
+      "mapType": "constituencies",
+      "aliases": [
+        "Mr Luke Charters",
+        "England"
+      ]
+    }
+  ]
+}

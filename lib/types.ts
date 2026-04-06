@@ -1,13 +1,6 @@
-export type PartyKey =
-  | "conservative"
-  | "labour"
-  | "liberal-democrat"
-  | "snp"
-  | "green"
-  | "reform"
-  | "other"
-  | "independent"
-  | "no-overall-control";
+import type { PartyValue } from "@/lib/data/party";
+
+export type PartyKey = PartyValue;
 
 export interface ConstituencySummary {
   id: string;
