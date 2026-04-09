@@ -43,6 +43,11 @@ export async function saveTextFile(filePath: string, contents: string): Promise<
   await writeFile(filePath, contents, "utf8");
 }
 
+export async function saveBinaryFile(filePath: string, contents: ArrayBuffer): Promise<void> {
+  await ensureDirectoryExists(path.dirname(filePath));
+  await writeFile(filePath, Buffer.from(contents));
+}
+
 export async function saveJsonFile(filePath: string, data: unknown): Promise<void> {
   await saveTextFile(filePath, `${JSON.stringify(data, null, 2)}\n`);
 }
@@ -55,6 +60,17 @@ export async function downloadToFile(
   const response = await fetchWithTimeout(url, options);
   const body = await response.text();
   await saveTextFile(filePath, body);
+  return response;
+}
+
+export async function downloadBinaryToFile(
+  url: string,
+  filePath: string,
+  options: RequestInit & { timeoutMs?: number } = {},
+): Promise<Response> {
+  const response = await fetchWithTimeout(url, options);
+  const body = await response.arrayBuffer();
+  await saveBinaryFile(filePath, body);
   return response;
 }
 

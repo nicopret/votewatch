@@ -4,12 +4,15 @@ import { toDataSlug } from "../../../lib/data/slug.ts";
 export interface MembersApiItem {
   value: {
     id: number;
-    nameDisplayAs: string;
+    nameDisplayAs: string | null;
+    nameFullTitle?: string | null;
     latestParty?: {
       name?: string | null;
     } | null;
+    gender?: string | null;
     latestHouseMembership?: {
       membershipFrom?: string | null;
+      membershipStartDate?: string | null;
     } | null;
   };
 }

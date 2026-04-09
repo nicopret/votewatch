@@ -1,0 +1,1087 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--[if lt IE 9]>
+    <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+    </script>
+    <![endif]-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Labour Market Profile - Nomis - Official Census and Labour Market Statistics</title>
+
+    <meta name="description" content="nomis - official labour market statistics" />
+    <meta name="keywords" content="annual business inquiry" />
+    <meta name="viewport" content="initial-scale=1" />
+    <meta charset="UTF-8" />
+    <link title="Easy Access version" rel="alternate" href="/home/accesskeys.htm" media="aural, braille, tty">
+    <link rel="alternate" type="application/rss+xml" title="Nomis RSS News Feed" href="/articles/rssArticles.asp" />
+    <link rel="alternate" type="application/rss+xml" title="Nomis RSS Release Dates Feed" href="/home/rssRelease_dates.asp" />
+    <link rel="stylesheet" href="/libs/font-awesome/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="/libs/jqueryui/jquery-ui.min.css" />
+    <link rel="stylesheet" href="/libs/jquery-simplePagination/simplePagination.min.css" />
+    <link rel="stylesheet" href="/libs/leaflet/leaflet.css" type="text/css" />
+
+    <link rel="stylesheet" href="/css/nomis.css" type="text/css" />
+    <link rel="stylesheet" href="/css/standard.css" type="text/css" />
+    <link rel="stylesheet" href="/css/nomis-ui.css" type="text/css" />
+    <link rel="stylesheet" href="/css/menubar.css" type="text/css" />
+    <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+
+    <!--[if Safari]>
+        <link rel="stylesheet" href="/css/safari-nomis.css" type="text/css" />
+    <![endif]-->
+
+    <script type="text/javascript" src="/libs/modernizr/modernizr.min.js"></script>
+    <script type="text/javascript" src="/libs/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="/libs/jquery-cookie/jquery.cookie.min.js"></script>
+    <script type="text/javascript" src="/libs/jquery-simplePagination/jquery.simplePagination.min.js"></script>
+    <script type="text/javascript" src="/libs/jqueryui/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/libs/jqueryui-touch-punch/jquery.ui.touch-punch.min.js"></script>
+    <script type="text/javascript" src="/libs/leaflet/leaflet.min.js"></script>
+    
+    <style>
+        .prefFntCtrl:hover, .prefFntCtrl:visited { color: #00B; }
+        .prefFntCtrl { border: 1px solid transparent; padding: 1px; }
+        .activeFntSz { border-color: #00b; font-weight: normal; }
+        #nomisweb-organisation-name-title:hover { text-decoration: underline; }
+        .fa-search { border: 0; padding: 0.7em; background: #5f7d41; font-size: 13px; color: #fff; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+        .fa-search:hover { cursor: pointer; }
+    </style>
+    <script type="text/javascript">
+        // Include D3 for browsers that support it
+        if (Modernizr.inlinesvg) { document.write ('<script type="text\/javascript" src="\/libs\/d3\/d3.min.js"><\/script>'); }
+    </script>
+        
+    <script type="text/javascript" src="/js/PageScripts.js"></script>
+    <script type="text/javascript" src="/js/nomis-core.js"></script>
+	<script type="text/javascript" src="/js/nomis-geography.js"></script>
+    <script type="text/javascript" src="/js/nomis-api.js"></script>
+    <script type="text/javascript" src="/js/nomis-ui.js"></script>
+    <script type="text/javascript" src="/js/nomis-stat.js"></script>
+    <script type="text/javascript" src="/js/cookies.js"></script>
+       
+	<script type="text/javascript">
+        const GA_TRACKING_ID = 'UA-3628896-1';
+
+        // Disable GA by default
+        window[`ga-disable-${GA_TRACKING_ID}`] = true;
+        if(hasCookieConsent()){
+            // Enable GA if consent is given
+            window[`ga-disable-${GA_TRACKING_ID}`] = false;
+
+            (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', GA_TRACKING_ID, 'auto');
+            ga('send', 'pageview');
+        }else{
+            // Cookies disabled 
+        	function ga(){};
+        }
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script>
+    // Set GA4 Measurement ID
+    const GA4_MEASUREMENT_ID = 'G-LMNEJ7PM1T';
+
+    // Disable GA4 by default
+    window[`ga-disable-${GA4_MEASUREMENT_ID}`] = true;
+
+    if (hasCookieConsent()) {
+        // Enable GA4 if consent is given
+        window[`ga-disable-${GA4_MEASUREMENT_ID}`] = false;
+
+        // Load the GA4 script
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = `https://www.googletagmanager.com/gtag/js?id=${GA4_MEASUREMENT_ID}`;
+        document.head.appendChild(script);
+
+        script.onload = function () {
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', GA4_MEASUREMENT_ID);
+        };
+    }else{
+        // Cookies disabled 
+        function gtag(){};
+    }
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>
+        if(hasCookieConsent()){
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NJWJX69');
+        }
+    </script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body onload="javascript:try { pageLoaded(); } catch(er) { }" onunload="javascript:try { pageUnloaded(); } catch(er) { }">
+    <div role="status" id="titleStatusDiv" class="visually-hidden"></div>
+    <div id="nomis-webpage">
+        <div id="cookie-consent-wrapper" aria-labelledby="cookie-consent-heading" style="display: none;" role="alert">
+            <h1 id="cookie-consent-heading">Cookie Consent</h1>
+            <div class="cookie-container">
+                <div id="outstanding-cookie-decision-panel">
+                    <p id="cookie-consent-info">We use cookies to ensure you get the best experience on our website and to remember if you've accepted cookies.</p>
+                    <br>
+                    <button id="cookie-consent-accept-button" class="positive" aria-label="cookie-consent-accept" onclick="cookieAccept();" title="Consent to the use of cookies" type="button">Accept Cookies</button>
+                    <button id="cookie-consent-decline-button" class="positive" aria-label="cookie-consent-decline" onclick="cookieDecline();" title="Decline the use of cookies" type="button">Decline Cookies</button>
+                    <a href="/home/cookies.asp" id="cookie-link" title="Read about how cookies are used on the Nomis web site">View cookie policy</a>
+                </div>
+                <div id="confirmed-cookie-decision-panel" style="display: none;">
+                    <p>Thanks for confirming your cookie preference. You can view or change your <a href="javascript: showSitePrefs();">cookie settings</a> at any time.</p>
+                    <input id="cookie-consent-dismiss-button" aria-labelledby="cookie-consent-terms" onclick="cookieConsentDismiss();" title="Hide this message about cookies" type="button" value="Hide" />
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            function shouldDisplayCookieConsent() { return $.cookie('cookie-consent') === undefined; }
+            function cookieAccept(){$('#outstanding-cookie-decision-panel').css('display', 'none'); $('#confirmed-cookie-decision-panel').css('display', 'block'); setCookieConsent(true);}
+            function cookieDecline(){$('#outstanding-cookie-decision-panel').css('display', 'none'); $('#confirmed-cookie-decision-panel').css('display', 'block'); setCookieConsent(false);}
+            function cookieConsentDismiss() { $('#cookie-consent-wrapper').slideUp(800); }
+            if (shouldDisplayCookieConsent()) { $('#cookie-consent-wrapper').css('display', 'block'); }
+        </script>
+        <div id="org-name-and-logo-wrapper" role="banner" aria-labelledby="nomisweb-organisation-name-title nomisweb-organisation-name-subtitle" style="overflow: hidden;">
+            <div class="hidden-until-focus">
+                <a href="#content-anchor" accesskey="s" class="skiptocontent">Skip to content</a>
+                <a href="/home/accessibility.asp" title="navigation link to Nomis website accessibility guide page">Skip to accessibility help</a>
+            </div>
+            <div id="nomisweb-organisation-name">
+                <div id="nomisweb-main-title-container"> <div id="nomisweb-organisation-name-title"><a href="/" accesskey="1">nomis</a></div> </div>
+                <div id="nomisweb-subtitle-container"> <div id="nomisweb-organisation-name-subtitle">official census and labour market statistics</div> </div>
+            </div>
+            <div class="nomisweb-ons-logo" style="float: none; text-align: right; margin-right: 0;">
+                <a href="https://www.ons.gov.uk">
+                    <img alt="National Statistics Logo" src="/images/ons-logo.svg" style="margin-top: 0; float: none; width: 19.7em;">
+                </a>
+                <div class="page-heading-tools" style="padding-left: 0 !important; background-color: #fff; margin-right: -5px; margin-top: 0; padding: 0 !important; clear: none;">
+                    <form id="site-search" onsubmit="if(document.getElementById('site-search-term').value == 'Search Nomis...') return false; else return true;" action="/home/Search" method="GET">
+                        <input type="hidden" id="site-search-context" name="context" value="" />
+                        <label class="obscure" for="site-search-term" id="lblsite-search-term">Search term</label>
+                        <input type="search" id="site-search-term" name="term" maxlength="75" aria-labelledby="lblsite-search-term" style="border: 1px solid #ddd; margin-right: 0; padding: 0.2em;" value="" />
+                        <button type="submit" style="padding: 0; border: 0;" title="Search" accesskey="4"><i class="fa fa-search"></i></button>
+                        <script type="text/javascript">
+                            NomisCore.setPlaceholder('site-search-term', 'Search...');
+                        </script>
+                    </form>
+                </div>               
+            </div>
+            
+        </div>
+        <form class="report_form" name="report" id="report" method="post"><input type="hidden" name="rep_nonce" value="12f4b9a7-1abc-4d9e-9c27-cf0689563934" />
+        <div id="site-nav-banner">
+            <div id="menu-control">
+                <a title="Show/Hide site navigation menu" href="javascript:  $('#nomis-top-main-nav-wrapper').slideToggle(); event.preventDefault();"><img src="/images/menu.gif" alt="Picture of three horizontal lines representing a menu" /> Menu</a>
+                <a title="Set site preferences" href="javascript: showSitePrefs();"><img src="/images/cog.gif" alt="Picture of a cog representing settings for the web site" /></a>
+            </div>
+            <!-- Begin site navigation banner section -->
+            <div id="nomis-top-main-nav-wrapper" role="navigation" aria-label="Site Navigation">
+                <nav>
+                    <ul class="nav-menu">
+                        <li class="nav-item">
+                            <a href="/" accesskey="1">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/home/profiles.asp">Reports</a>
+                            <div class="sub-nav">
+                                <h1>Area reports</h1>
+                                <ul>
+                                    <li><a href="/reports/localarea">Local Area Report (district/county and smaller areas)</a></li>
+                                    <li><a href="/reports/lmp/lad/contents.aspx">Local Authority Profile (district/county areas)</a></li>
+                                    <li><a href="/reports/lmp/lep/contents.aspx">Local Enterprise Partnerships Profile</a></li>
+                                    <li><a href="/reports/lmp/gor/contents.aspx">Regional and National Profile</a></li>
+                                    <li><a href="/reports/lmp/comb/contents.aspx">Combined Authority Profile</a></li>
+                                    <li><a href="/reports/lmp/wpca24/contents.aspx">2024 Parliamentary Constituencies Profile</a></li>
+                                    <li><a href="/reports/lmp/ward2011/contents.aspx">2011 Ward Profile</a></li>
+                                </ul>
+                                
+                                <h1>Topic reports</h1>
+                                <ul>
+                                    <li><a href="/datasets/aps218/reports/employment-by-occupation">Employment by occupation (SOC2020) by sex</a></li>
+                                    <li><a href="/datasets/aps218/reports/employment-by-status-and-occupation">Occupation (SOC2020) by sex, employment status and full/part-time</a></li>
+                                    <li><a href="/datasets/aps218/reports/employment-by-temp-workers">Temporary and permanent employees by sex and broad occupation (SOC2020)</a></li>
+                                    <li><a href="/datasets/aps218/reports/employment-by-part-time-workers">Employment by broad occupation (SOC2020) for part-time workers</a></li>
+                                    <li><a href="/datasets/aps218/reports/employment-by-sex-by-ftpt-by-emp-self">Broad occupation (SOC2020) by sex, employment status and full/part-time time-series</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a id="A5" href="/sources">Data Sources</a>
+                            <div class="sub-nav">
+                                <ul>
+                                    <li><a href="/sources/acses">Annual Civil Service Employment Survey</a></li>
+                                    <li><a href="/sources/aps">Annual Population Survey/Labour Force Survey</a></li>
+                                    <li><a href="/sources/ashe">Annual Survey of Hours and Earnings</a></li>
+                                    <li><a href="/sources/bres">Business Register and Employment Survey</a></li>
+                                    <li><a href="/sources/census">Census</a></li>
+                                    <li><a href="/sources/cc">Claimant Count</a></li>
+                                    <li><a href="/sources/dwp">DWP Benefits</a></li>
+                                    <li><a href="/sources/housing">Housing</a></li>
+                                    <li><a href="/sources/eop">Economic output and productivity</a></li>
+                                    <li><a href="/sources/jd">Jobs Density</a></li>
+                                    <li><a href="/sources/jsa">Jobseekers Allowance</a></li>
+                                    <li><a href="/sources/life">Life Events</a></li>
+                                    <li><a href="/sources/pest">Population Estimates/Projections</a></li>
+                                    <li><a href="/sources/ra">Regional Accounts</a></li>
+                                    <li><a href="/sources/ukbc">UK Business Counts</a></li>
+                                    <li><a href="/sources/wfj">Workforce Jobs</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a id="A6" href="/sources/census">Census</a>
+                            <div class="sub-nav">
+                                <ul>
+                                    <li><a href="/sources/census_2021">2021 Census</a></li>
+                                    <li><a href="/sources/census_2011">2011 Census</a></li>
+                                    <li><a href="/sources/census_2001">2001 Census</a></li>
+                                    <li><a href="/sources/census_1991">1991 Census</a></li>
+                                    <li><a href="/sources/census_1981">1981 Census</a></li>
+                                    <li><a href="/sources/census_1961">1961 Census</a></li>
+                                    <li><a href="/sources/census_1951">1951 Census</a></li>
+                                    <li><a href="/sources/census_1931">1931 Census</a></li>
+                                    <li><a href="/sources/census_1921">1921 Census</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li class="nav-item">
+                            <a id="A8" href="/home/contacts.asp">Contact us</a>
+                        </li>
+
+                        <li class="nav-item nav-my-account">
+                            <a id="A7" href="/myaccount/overview.asp" title="My account overview">Sign-in</a>
+                            <div class="sub-nav">
+                                <div style="display: none;">
+                                    
+                                    <ul>
+                                        <li><a href="/myaccount/overview.asp">My account</a></li>
+                                    </ul>
+                                </div>
+                                <div id="menu-my-account-not-signed-in">
+                                    <h1>You're not signed in</h1>
+                                    <ul>
+                                        <li><a id="signin_link" href="/login/login.asp" title="Sign-in and return to the current page">Sign-in</a></li>
+                                    </ul>
+                                    <h1>New to Nomis?</h1>
+                                    <p>You can use most parts of this site without registering.</p>
+                                    <ul>
+                                        <li><a href="/myaccount/userjoin.asp">Register</a></li>
+                                        <li><a href="/home/register.asp">Benefits of registering</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+                <a id="nomisweb-prefs-link" title="Site settings" href="javascript: showSitePrefs();"><img src="/images/cog.gif" alt="Picture of a cog representing settings for the web site" /><span>Settings</span></a>
+
+                <!-- initialize a selector as an accessibleMegaMenu -->
+                <script type="text/javascript">
+                    var mmansi = document.getElementById('menu-my-account-not-signed-in');
+
+                    // Only change sign-in urls if the user is not logged in
+                    if (mmansi != null && mmansi != undefined && mmansi.style != undefined && mmansi.style.display != 'none') {
+                        var signina = document.getElementById('signin_link');
+                        var a7a = document.getElementById('A7');
+
+                        var signin_tgt = window.location.pathname
+                        var signin_par = window.location.search;
+                        if (signin_par.length > 0) signin_par = signin_par.substring(1); // Remove ?
+                        signin_par = encodeURIComponent(signin_par);
+
+                        var signin_hrefp = '?target=' + signin_tgt + '&params=' + signin_par;
+
+                        if (signina != null && signina != undefined) signina.href = signina.href + signin_hrefp; // Make sub-menu sign-in link target go to same page
+                        if (a7a != null && a7a != undefined) a7a.href = '/login/login.asp' + signin_hrefp; // Initially make my account link target go to same page
+                    }
+                </script>
+                <script src="/libs/jquery-accessibleMegaMenu.js"></script>
+                <script type="text/javascript">
+                    $("nav:first").accessibleMegaMenu({
+                        uuidPrefix: "accessible-megamenu",
+                        menuClass: "nav-menu",
+                        topNavItemClass: "nav-item",
+                        panelClass: "sub-nav",
+                        panelGroupClass: "sub-nav-group",
+                        hoverClass: "hover",
+                        focusClass: "focus",
+                        openClass: "open"
+                    });
+                </script>
+            </div>
+            <!-- End site navigation banner section -->
+            <!-- Begin breadcrumbs -->
+            <div id="breadcrumbs-wrapper">
+                <div id="BCBox" class="breadcrumbs" role="navigation" aria-label="Breadcrumbs"></div>
+            </div>
+            <!-- End breadcrumbs -->
+            <script type="text/javascript">
+                var BaseBreadCrumbs = new Array('/default.asp', 'home');
+                SetBreadCrumbs(null);
+            </script>
+
+            <div id="skip-to-content"><a id="content-anchor"></a></div>
+<div id="page-heading-and-sub-nav"><script type="text/javascript" language="javascript">
+//<[!CDATA[
+if(!document.layers) document.write('<div class="loading_banner" id="loadingbanner">Please wait...</div>');
+function HideLoadingBanner()
+{
+var lyr;
+if(document.layers) // Netscape 4
+{
+lyr = document.layers["loadingbanner"];
+}
+else if(document.all) // IE
+{
+lyr = document.all["loadingbanner"];
+}
+else if(!document.all && document.getElementById) // Netscape 6
+{
+lyr = document.getElementById("loadingbanner");
+}
+if(lyr && lyr.style) lyr.style.visibility = 'hidden';
+else if(lyr) lyr.left = -1000;
+}
+
+//]]>
+</script>
+
+<h1>constituency profile</h1>
+<div class="impactsearch">
+<script type="text/javascript" language="JavaScript">
+function doenter() {
+  if(window.event && window.event.keyCode == 13) { $('#searchBtn').click(); return false;}
+  else return true;
+}
+</script>
+<fieldset class="searchWrapper-right">
+<legend>Search</legend>
+<p>You can search for a profile by postcode or place name.</p>
+<label for="txtSearch" id="lbltxtSearch" class="obscure">Postcode or place name</label><input aria-labelledby="lbltxtSearch" type="text" id="txtSearch" class="searchIcon" onkeypress="return doenter();" name="txtSearch" size="20" placeholder="Postcode or place name..." maxlength="30">
+<input type="submit" name="searchBtn" class="searchIcon" id="searchBtn" value="Search" />
+</fieldset>
+<fieldset class="searchWrapper-left"><legend>Select from list</legend>
+<div class="label-container"><label for="selArea0">Choose a constituency</label>
+<select id="selArea0" name="selArea0"
+>
+<option value="-1">&gt; choose one &lt;</option>
+<option value="1929380382">Aberavon</option>
+<option value="1929380391">Aberconwy</option>
+<option value="1929380414">Aberdeen North</option>
+<option value="1929380415">Aberdeen South</option>
+<option value="1929380416">Airdrie and Shotts</option>
+<option value="1929379841">Aldershot</option>
+<option value="1929379842">Aldridge-Brownhills</option>
+<option value="1929379843">Altrincham and Sale West</option>
+<option value="1929380376">Alyn and Deeside</option>
+<option value="1929379844">Amber Valley</option>
+<option value="1929380417">Angus</option>
+<option value="1929380390">Arfon</option>
+<option value="1929380418">Argyll and Bute</option>
+<option value="1929379845">Arundel and South Downs</option>
+<option value="1929379846">Ashfield</option>
+<option value="1929379847">Ashford</option>
+<option value="1929379848">Ashton-under-Lyne</option>
+<option value="1929379849">Aylesbury</option>
+<option value="1929380419">Ayr, Carrick and Cumnock</option>
+<option value="1929379850">Banbury</option>
+<option value="1929380420">Banff and Buchan</option>
+<option value="1929379851">Barking</option>
+<option value="1929379852">Barnsley Central</option>
+<option value="1929379853">Barnsley East</option>
+<option value="1929379854">Barrow and Furness</option>
+<option value="1929379855">Basildon and Billericay</option>
+<option value="1929379856">Basingstoke</option>
+<option value="1929379857">Bassetlaw</option>
+<option value="1929379858">Bath</option>
+<option value="1929379859">Batley and Spen</option>
+<option value="1929379860">Battersea</option>
+<option value="1929379861">Beaconsfield</option>
+<option value="1929379862">Beckenham</option>
+<option value="1929379863">Bedford</option>
+<option value="1929379864">Bermondsey and Old Southwark</option>
+<option value="1929379865">Berwick-upon-Tweed</option>
+<option value="1929380421">Berwickshire, Roxburgh and Selkirk</option>
+<option value="1929379866">Bethnal Green and Bow</option>
+<option value="1929379867">Beverley and Holderness</option>
+<option value="1929379868">Bexhill and Battle</option>
+<option value="1929379869">Bexleyheath and Crayford</option>
+<option value="1929379870">Birkenhead</option>
+<option value="1929379871">Birmingham, Edgbaston</option>
+<option value="1929379872">Birmingham, Erdington</option>
+<option value="1929379873">Birmingham, Hall Green</option>
+<option value="1929379874">Birmingham, Hodge Hill</option>
+<option value="1929379875">Birmingham, Ladywood</option>
+<option value="1929379876">Birmingham, Northfield</option>
+<option value="1929379877">Birmingham, Perry Barr</option>
+<option value="1929379878">Birmingham, Selly Oak</option>
+<option value="1929379879">Birmingham, Yardley</option>
+<option value="1929379880">Bishop Auckland</option>
+<option value="1929379881">Blackburn</option>
+<option value="1929379882">Blackley and Broughton</option>
+<option value="1929379883">Blackpool North and Cleveleys</option>
+<option value="1929379884">Blackpool South</option>
+<option value="1929380405">Blaenau Gwent</option>
+<option value="1929379885">Blaydon</option>
+<option value="1929379886">Blyth Valley</option>
+<option value="1929379887">Bognor Regis and Littlehampton</option>
+<option value="1929379888">Bolsover</option>
+<option value="1929379889">Bolton North East</option>
+<option value="1929379890">Bolton South East</option>
+<option value="1929379891">Bolton West</option>
+<option value="1929379892">Bootle</option>
+<option value="1929379893">Boston and Skegness</option>
+<option value="1929379894">Bosworth</option>
+<option value="1929379895">Bournemouth East</option>
+<option value="1929379896">Bournemouth West</option>
+<option value="1929379897">Bracknell</option>
+<option value="1929379898">Bradford East</option>
+<option value="1929379899">Bradford South</option>
+<option value="1929379900">Bradford West</option>
+<option value="1929379901">Braintree</option>
+<option value="1929380401">Brecon and Radnorshire</option>
+<option value="1929379902">Brent Central</option>
+<option value="1929379903">Brent North</option>
+<option value="1929379904">Brentford and Isleworth</option>
+<option value="1929379905">Brentwood and Ongar</option>
+<option value="1929380406">Bridgend</option>
+<option value="1929379906">Bridgwater and West Somerset</option>
+<option value="1929379907">Brigg and Goole</option>
+<option value="1929379908">Brighton, Kemptown</option>
+<option value="1929379909">Brighton, Pavilion</option>
+<option value="1929379910">Bristol East</option>
+<option value="1929379911">Bristol North West</option>
+<option value="1929379912">Bristol South</option>
+<option value="1929379913">Bristol West</option>
+<option value="1929379914">Broadland</option>
+<option value="1929379915">Bromley and Chislehurst</option>
+<option value="1929379916">Bromsgrove</option>
+<option value="1929379917">Broxbourne</option>
+<option value="1929379918">Broxtowe</option>
+<option value="1929379919">Buckingham</option>
+<option value="1929379920">Burnley</option>
+<option value="1929379921">Burton</option>
+<option value="1929379922">Bury North</option>
+<option value="1929379923">Bury South</option>
+<option value="1929379924">Bury St Edmunds</option>
+<option value="1929380409">Caerphilly</option>
+<option value="1929380422">Caithness, Sutherland and Easter Ross</option>
+<option value="1929379925">Calder Valley</option>
+<option value="1929379926">Camberwell and Peckham</option>
+<option value="1929379927">Camborne and Redruth</option>
+<option value="1929379928">Cambridge</option>
+<option value="1929379929">Cannock Chase</option>
+<option value="1929379930">Canterbury</option>
+<option value="1929380383">Cardiff Central</option>
+<option value="1929380384">Cardiff North</option>
+<option value="1929380413">Cardiff South and Penarth</option>
+<option value="1929380412">Cardiff West</option>
+<option value="1929379931">Carlisle</option>
+<option value="1929380400">Carmarthen East and Dinefwr</option>
+<option value="1929380399">Carmarthen West and South Pembrokeshire</option>
+<option value="1929379932">Carshalton and Wallington</option>
+<option value="1929379933">Castle Point</option>
+<option value="1929380423">Central Ayrshire</option>
+<option value="1929379934">Central Devon</option>
+<option value="1929379935">Central Suffolk and North Ipswich</option>
+<option value="1929380397">Ceredigion</option>
+<option value="1929379936">Charnwood</option>
+<option value="1929379937">Chatham and Aylesford</option>
+<option value="1929379938">Cheadle</option>
+<option value="1929379939">Chelmsford</option>
+<option value="1929379940">Chelsea and Fulham</option>
+<option value="1929379941">Cheltenham</option>
+<option value="1929379942">Chesham and Amersham</option>
+<option value="1929379943">Chesterfield</option>
+<option value="1929379944">Chichester</option>
+<option value="1929379945">Chingford and Woodford Green</option>
+<option value="1929379946">Chippenham</option>
+<option value="1929379947">Chipping Barnet</option>
+<option value="1929379948">Chorley</option>
+<option value="1929379949">Christchurch</option>
+<option value="1929379950">Cities of London and Westminster</option>
+<option value="1929379951">City of Chester</option>
+<option value="1929379952">City of Durham</option>
+<option value="1929379953">Clacton</option>
+<option value="1929379954">Cleethorpes</option>
+<option value="1929380395">Clwyd South</option>
+<option value="1929380392">Clwyd West</option>
+<option value="1929380424">Coatbridge, Chryston and Bellshill</option>
+<option value="1929379955">Colchester</option>
+<option value="1929379956">Colne Valley</option>
+<option value="1929379957">Congleton</option>
+<option value="1929379958">Copeland</option>
+<option value="1929379959">Corby</option>
+<option value="1929379960">Coventry North East</option>
+<option value="1929379961">Coventry North West</option>
+<option value="1929379962">Coventry South</option>
+<option value="1929379963">Crawley</option>
+<option value="1929379964">Crewe and Nantwich</option>
+<option value="1929379965">Croydon Central</option>
+<option value="1929379966">Croydon North</option>
+<option value="1929379967">Croydon South</option>
+<option value="1929380425">Cumbernauld, Kilsyth and Kirkintilloch East</option>
+<option value="1929380403">Cynon Valley</option>
+<option value="1929379968">Dagenham and Rainham</option>
+<option value="1929379969">Darlington</option>
+<option value="1929379970">Dartford</option>
+<option value="1929379971">Daventry</option>
+<option value="1929380375">Delyn</option>
+<option value="1929379972">Denton and Reddish</option>
+<option value="1929379973">Derby North</option>
+<option value="1929379974">Derby South</option>
+<option value="1929379975">Derbyshire Dales</option>
+<option value="1929379976">Devizes</option>
+<option value="1929379977">Dewsbury</option>
+<option value="1929379978">Don Valley</option>
+<option value="1929379979">Doncaster Central</option>
+<option value="1929379980">Doncaster North</option>
+<option value="1929379981">Dover</option>
+<option value="1929379982">Dudley North</option>
+<option value="1929379983">Dudley South</option>
+<option value="1929379984">Dulwich and West Norwood</option>
+<option value="1929380426">Dumfries and Galloway</option>
+<option value="1929380427">Dumfriesshire, Clydesdale and Tweeddale</option>
+<option value="1929380428">Dundee East</option>
+<option value="1929380429">Dundee West</option>
+<option value="1929380430">Dunfermline and West Fife</option>
+<option value="1929380394">Dwyfor Meirionnydd</option>
+<option value="1929379985">Ealing Central and Acton</option>
+<option value="1929379986">Ealing North</option>
+<option value="1929379987">Ealing, Southall</option>
+<option value="1929379988">Easington</option>
+<option value="1929379989">East Devon</option>
+<option value="1929380431">East Dunbartonshire</option>
+<option value="1929379990">East Ham</option>
+<option value="1929379991">East Hampshire</option>
+<option value="1929380432">East Kilbride, Strathaven and Lesmahagow</option>
+<option value="1929380433">East Lothian</option>
+<option value="1929380434">East Renfrewshire</option>
+<option value="1929379992">East Surrey</option>
+<option value="1929379993">East Worthing and Shoreham</option>
+<option value="1929379994">East Yorkshire</option>
+<option value="1929379995">Eastbourne</option>
+<option value="1929379996">Eastleigh</option>
+<option value="1929379997">Eddisbury</option>
+<option value="1929380435">Edinburgh East</option>
+<option value="1929380436">Edinburgh North and Leith</option>
+<option value="1929380437">Edinburgh South</option>
+<option value="1929380438">Edinburgh South West</option>
+<option value="1929380439">Edinburgh West</option>
+<option value="1929379998">Edmonton</option>
+<option value="1929379999">Ellesmere Port and Neston</option>
+<option value="1929380000">Elmet and Rothwell</option>
+<option value="1929380001">Eltham</option>
+<option value="1929380002">Enfield North</option>
+<option value="1929380003">Enfield, Southgate</option>
+<option value="1929380004">Epping Forest</option>
+<option value="1929380005">Epsom and Ewell</option>
+<option value="1929380006">Erewash</option>
+<option value="1929380007">Erith and Thamesmead</option>
+<option value="1929380008">Esher and Walton</option>
+<option value="1929380009">Exeter</option>
+<option value="1929380440">Falkirk</option>
+<option value="1929380010">Fareham</option>
+<option value="1929380011">Faversham and Mid Kent</option>
+<option value="1929380012">Feltham and Heston</option>
+<option value="1929380013">Filton and Bradley Stoke</option>
+<option value="1929380014">Finchley and Golders Green</option>
+<option value="1929380015">Folkestone and Hythe</option>
+<option value="1929380016">Forest of Dean</option>
+<option value="1929380017">Fylde</option>
+<option value="1929380018">Gainsborough</option>
+<option value="1929380019">Garston and Halewood</option>
+<option value="1929380020">Gateshead</option>
+<option value="1929380021">Gedling</option>
+<option value="1929380022">Gillingham and Rainham</option>
+<option value="1929380441">Glasgow Central</option>
+<option value="1929380442">Glasgow East</option>
+<option value="1929380443">Glasgow North</option>
+<option value="1929380444">Glasgow North East</option>
+<option value="1929380445">Glasgow North West</option>
+<option value="1929380446">Glasgow South</option>
+<option value="1929380447">Glasgow South West</option>
+<option value="1929380448">Glenrothes</option>
+<option value="1929380023">Gloucester</option>
+<option value="1929380449">Gordon</option>
+<option value="1929380024">Gosport</option>
+<option value="1929380379">Gower</option>
+<option value="1929380025">Grantham and Stamford</option>
+<option value="1929380026">Gravesham</option>
+<option value="1929380027">Great Grimsby</option>
+<option value="1929380028">Great Yarmouth</option>
+<option value="1929380029">Greenwich and Woolwich</option>
+<option value="1929380030">Guildford</option>
+<option value="1929380031">Hackney North and Stoke Newington</option>
+<option value="1929380032">Hackney South and Shoreditch</option>
+<option value="1929380033">Halesowen and Rowley Regis</option>
+<option value="1929380034">Halifax</option>
+<option value="1929380035">Haltemprice and Howden</option>
+<option value="1929380036">Halton</option>
+<option value="1929380037">Hammersmith</option>
+<option value="1929380038">Hampstead and Kilburn</option>
+<option value="1929380039">Harborough</option>
+<option value="1929380040">Harlow</option>
+<option value="1929380041">Harrogate and Knaresborough</option>
+<option value="1929380042">Harrow East</option>
+<option value="1929380043">Harrow West</option>
+<option value="1929380044">Hartlepool</option>
+<option value="1929380045">Harwich and North Essex</option>
+<option value="1929380046">Hastings and Rye</option>
+<option value="1929380047">Havant</option>
+<option value="1929380048">Hayes and Harlington</option>
+<option value="1929380049">Hazel Grove</option>
+<option value="1929380050">Hemel Hempstead</option>
+<option value="1929380051">Hemsworth</option>
+<option value="1929380052">Hendon</option>
+<option value="1929380053">Henley</option>
+<option value="1929380054">Hereford and South Herefordshire</option>
+<option value="1929380055">Hertford and Stortford</option>
+<option value="1929380056">Hertsmere</option>
+<option value="1929380057">Hexham</option>
+<option value="1929380058">Heywood and Middleton</option>
+<option value="1929380059">High Peak</option>
+<option value="1929380060">Hitchin and Harpenden</option>
+<option value="1929380061">Holborn and St Pancras</option>
+<option value="1929380062">Hornchurch and Upminster</option>
+<option value="1929380063">Hornsey and Wood Green</option>
+<option value="1929380064">Horsham</option>
+<option value="1929380065">Houghton and Sunderland South</option>
+<option value="1929380066">Hove</option>
+<option value="1929380067">Huddersfield</option>
+<option value="1929380068">Huntingdon</option>
+<option value="1929380069">Hyndburn</option>
+<option value="1929380070">Ilford North</option>
+<option value="1929380071">Ilford South</option>
+<option value="1929380450">Inverclyde</option>
+<option value="1929380451">Inverness, Nairn, Badenoch and Strathspey</option>
+<option value="1929380072">Ipswich</option>
+<option value="1929380073">Isle of Wight</option>
+<option value="1929380074">Islington North</option>
+<option value="1929380075">Islington South and Finsbury</option>
+<option value="1929380410">Islwyn</option>
+<option value="1929380076">Jarrow</option>
+<option value="1929380077">Keighley</option>
+<option value="1929380078">Kenilworth and Southam</option>
+<option value="1929380079">Kensington</option>
+<option value="1929380080">Kettering</option>
+<option value="1929380452">Kilmarnock and Loudoun</option>
+<option value="1929380081">Kingston and Surbiton</option>
+<option value="1929380082">Kingston upon Hull East</option>
+<option value="1929380083">Kingston upon Hull North</option>
+<option value="1929380084">Kingston upon Hull West and Hessle</option>
+<option value="1929380085">Kingswood</option>
+<option value="1929380453">Kirkcaldy and Cowdenbeath</option>
+<option value="1929380086">Knowsley</option>
+<option value="1929380454">Lanark and Hamilton East</option>
+<option value="1929380087">Lancaster and Fleetwood</option>
+<option value="1929380088">Leeds Central</option>
+<option value="1929380089">Leeds East</option>
+<option value="1929380090">Leeds North East</option>
+<option value="1929380091">Leeds North West</option>
+<option value="1929380092">Leeds West</option>
+<option value="1929380093">Leicester East</option>
+<option value="1929380094">Leicester South</option>
+<option value="1929380095">Leicester West</option>
+<option value="1929380096">Leigh</option>
+<option value="1929380097">Lewes</option>
+<option value="1929380098">Lewisham East</option>
+<option value="1929380099">Lewisham West and Penge</option>
+<option value="1929380100">Lewisham, Deptford</option>
+<option value="1929380101">Leyton and Wanstead</option>
+<option value="1929380102">Lichfield</option>
+<option value="1929380103">Lincoln</option>
+<option value="1929380455">Linlithgow and East Falkirk</option>
+<option value="1929380104">Liverpool, Riverside</option>
+<option value="1929380105">Liverpool, Walton</option>
+<option value="1929380106">Liverpool, Wavertree</option>
+<option value="1929380107">Liverpool, West Derby</option>
+<option value="1929380456">Livingston</option>
+<option value="1929380378">Llanelli</option>
+<option value="1929380108">Loughborough</option>
+<option value="1929380109">Louth and Horncastle</option>
+<option value="1929380110">Ludlow</option>
+<option value="1929380111">Luton North</option>
+<option value="1929380112">Luton South</option>
+<option value="1929380113">Macclesfield</option>
+<option value="1929380114">Maidenhead</option>
+<option value="1929380115">Maidstone and The Weald</option>
+<option value="1929380116">Makerfield</option>
+<option value="1929380117">Maldon</option>
+<option value="1929380118">Manchester Central</option>
+<option value="1929380119">Manchester, Gorton</option>
+<option value="1929380120">Manchester, Withington</option>
+<option value="1929380121">Mansfield</option>
+<option value="1929380122">Meon Valley</option>
+<option value="1929380123">Meriden</option>
+<option value="1929380404">Merthyr Tydfil and Rhymney</option>
+<option value="1929380124">Mid Bedfordshire</option>
+<option value="1929380125">Mid Derbyshire</option>
+<option value="1929380126">Mid Dorset and North Poole</option>
+<option value="1929380127">Mid Norfolk</option>
+<option value="1929380128">Mid Sussex</option>
+<option value="1929380129">Mid Worcestershire</option>
+<option value="1929380130">Middlesbrough</option>
+<option value="1929380131">Middlesbrough South and East Cleveland</option>
+<option value="1929380457">Midlothian</option>
+<option value="1929380132">Milton Keynes North</option>
+<option value="1929380133">Milton Keynes South</option>
+<option value="1929380134">Mitcham and Morden</option>
+<option value="1929380135">Mole Valley</option>
+<option value="1929380387">Monmouth</option>
+<option value="1929380396">Montgomeryshire</option>
+<option value="1929380458">Moray</option>
+<option value="1929380136">Morecambe and Lunesdale</option>
+<option value="1929380137">Morley and Outwood</option>
+<option value="1929380459">Motherwell and Wishaw</option>
+<option value="1929380460">Na h-Eileanan An Iar</option>
+<option value="1929380402">Neath</option>
+<option value="1929380138">New Forest East</option>
+<option value="1929380139">New Forest West</option>
+<option value="1929380140">Newark</option>
+<option value="1929380141">Newbury</option>
+<option value="1929380142">Newcastle upon Tyne Central</option>
+<option value="1929380143">Newcastle upon Tyne East</option>
+<option value="1929380144">Newcastle upon Tyne North</option>
+<option value="1929380145">Newcastle-under-Lyme</option>
+<option value="1929380388">Newport East</option>
+<option value="1929380389">Newport West</option>
+<option value="1929380146">Newton Abbot</option>
+<option value="1929380147">Normanton, Pontefract and Castleford</option>
+<option value="1929380461">North Ayrshire and Arran</option>
+<option value="1929380148">North Cornwall</option>
+<option value="1929380149">North Devon</option>
+<option value="1929380150">North Dorset</option>
+<option value="1929380151">North Durham</option>
+<option value="1929380152">North East Bedfordshire</option>
+<option value="1929380153">North East Cambridgeshire</option>
+<option value="1929380154">North East Derbyshire</option>
+<option value="1929380462">North East Fife</option>
+<option value="1929380155">North East Hampshire</option>
+<option value="1929380156">North East Hertfordshire</option>
+<option value="1929380157">North East Somerset</option>
+<option value="1929380158">North Herefordshire</option>
+<option value="1929380159">North Norfolk</option>
+<option value="1929380160">North Shropshire</option>
+<option value="1929380161">North Somerset</option>
+<option value="1929380162">North Swindon</option>
+<option value="1929380163">North Thanet</option>
+<option value="1929380164">North Tyneside</option>
+<option value="1929380165">North Warwickshire</option>
+<option value="1929380166">North West Cambridgeshire</option>
+<option value="1929380167">North West Durham</option>
+<option value="1929380168">North West Hampshire</option>
+<option value="1929380169">North West Leicestershire</option>
+<option value="1929380170">North West Norfolk</option>
+<option value="1929380171">North Wiltshire</option>
+<option value="1929380172">Northampton North</option>
+<option value="1929380173">Northampton South</option>
+<option value="1929380174">Norwich North</option>
+<option value="1929380175">Norwich South</option>
+<option value="1929380176">Nottingham East</option>
+<option value="1929380177">Nottingham North</option>
+<option value="1929380178">Nottingham South</option>
+<option value="1929380179">Nuneaton</option>
+<option value="1929380463">Ochil and South Perthshire</option>
+<option value="1929380407">Ogmore</option>
+<option value="1929380180">Old Bexley and Sidcup</option>
+<option value="1929380181">Oldham East and Saddleworth</option>
+<option value="1929380182">Oldham West and Royton</option>
+<option value="1929380464">Orkney and Shetland</option>
+<option value="1929380183">Orpington</option>
+<option value="1929380184">Oxford East</option>
+<option value="1929380185">Oxford West and Abingdon</option>
+<option value="1929380465">Paisley and Renfrewshire North</option>
+<option value="1929380466">Paisley and Renfrewshire South</option>
+<option value="1929380186">Pendle</option>
+<option value="1929380187">Penistone and Stocksbridge</option>
+<option value="1929380188">Penrith and The Border</option>
+<option value="1929380467">Perth and North Perthshire</option>
+<option value="1929380189">Peterborough</option>
+<option value="1929380190">Plymouth, Moor View</option>
+<option value="1929380191">Plymouth, Sutton and Devonport</option>
+<option value="1929380408">Pontypridd</option>
+<option value="1929380192">Poole</option>
+<option value="1929380193">Poplar and Limehouse</option>
+<option value="1929380194">Portsmouth North</option>
+<option value="1929380195">Portsmouth South</option>
+<option value="1929380398">Preseli Pembrokeshire</option>
+<option value="1929380196">Preston</option>
+<option value="1929380197">Pudsey</option>
+<option value="1929380198">Putney</option>
+<option value="1929380199">Rayleigh and Wickford</option>
+<option value="1929380200">Reading East</option>
+<option value="1929380201">Reading West</option>
+<option value="1929380202">Redcar</option>
+<option value="1929380203">Redditch</option>
+<option value="1929380204">Reigate</option>
+<option value="1929380385">Rhondda</option>
+<option value="1929380205">Ribble Valley</option>
+<option value="1929380206">Richmond (Yorks)</option>
+<option value="1929380207">Richmond Park</option>
+<option value="1929380208">Rochdale</option>
+<option value="1929380209">Rochester and Strood</option>
+<option value="1929380210">Rochford and Southend East</option>
+<option value="1929380211">Romford</option>
+<option value="1929380212">Romsey and Southampton North</option>
+<option value="1929380468">Ross, Skye and Lochaber</option>
+<option value="1929380213">Rossendale and Darwen</option>
+<option value="1929380214">Rother Valley</option>
+<option value="1929380215">Rotherham</option>
+<option value="1929380216">Rugby</option>
+<option value="1929380217">Ruislip, Northwood and Pinner</option>
+<option value="1929380218">Runnymede and Weybridge</option>
+<option value="1929380219">Rushcliffe</option>
+<option value="1929380469">Rutherglen and Hamilton West</option>
+<option value="1929380220">Rutland and Melton</option>
+<option value="1929380221">Saffron Walden</option>
+<option value="1929380222">Salford and Eccles</option>
+<option value="1929380223">Salisbury</option>
+<option value="1929380224">Scarborough and Whitby</option>
+<option value="1929380225">Scunthorpe</option>
+<option value="1929380226">Sedgefield</option>
+<option value="1929380227">Sefton Central</option>
+<option value="1929380228">Selby and Ainsty</option>
+<option value="1929380229">Sevenoaks</option>
+<option value="1929380230">Sheffield Central</option>
+<option value="1929380231">Sheffield South East</option>
+<option value="1929380232">Sheffield, Brightside and Hillsborough</option>
+<option value="1929380233">Sheffield, Hallam</option>
+<option value="1929380234">Sheffield, Heeley</option>
+<option value="1929380235">Sherwood</option>
+<option value="1929380236">Shipley</option>
+<option value="1929380237">Shrewsbury and Atcham</option>
+<option value="1929380238">Sittingbourne and Sheppey</option>
+<option value="1929380239">Skipton and Ripon</option>
+<option value="1929380240">Sleaford and North Hykeham</option>
+<option value="1929380241">Slough</option>
+<option value="1929380242">Solihull</option>
+<option value="1929380243">Somerton and Frome</option>
+<option value="1929380244">South Basildon and East Thurrock</option>
+<option value="1929380245">South Cambridgeshire</option>
+<option value="1929380246">South Derbyshire</option>
+<option value="1929380247">South Dorset</option>
+<option value="1929380248">South East Cambridgeshire</option>
+<option value="1929380249">South East Cornwall</option>
+<option value="1929380250">South Holland and The Deepings</option>
+<option value="1929380251">South Leicestershire</option>
+<option value="1929380252">South Norfolk</option>
+<option value="1929380253">South Northamptonshire</option>
+<option value="1929380254">South Ribble</option>
+<option value="1929380255">South Shields</option>
+<option value="1929380256">South Staffordshire</option>
+<option value="1929380257">South Suffolk</option>
+<option value="1929380258">South Swindon</option>
+<option value="1929380259">South Thanet</option>
+<option value="1929380260">South West Bedfordshire</option>
+<option value="1929380261">South West Devon</option>
+<option value="1929380262">South West Hertfordshire</option>
+<option value="1929380263">South West Norfolk</option>
+<option value="1929380264">South West Surrey</option>
+<option value="1929380265">South West Wiltshire</option>
+<option value="1929380266">Southampton, Itchen</option>
+<option value="1929380267">Southampton, Test</option>
+<option value="1929380268">Southend West</option>
+<option value="1929380269">Southport</option>
+<option value="1929380270">Spelthorne</option>
+<option value="1929380271">St Albans</option>
+<option value="1929380272">St Austell and Newquay</option>
+<option value="1929380273">St Helens North</option>
+<option value="1929380274">St Helens South and Whiston</option>
+<option value="1929380275">St Ives</option>
+<option value="1929380276">Stafford</option>
+<option value="1929380277">Staffordshire Moorlands</option>
+<option value="1929380278">Stalybridge and Hyde</option>
+<option value="1929380279">Stevenage</option>
+<option value="1929380470">Stirling</option>
+<option value="1929380280">Stockport</option>
+<option value="1929380281">Stockton North</option>
+<option value="1929380282">Stockton South</option>
+<option value="1929380283">Stoke-on-Trent Central</option>
+<option value="1929380284">Stoke-on-Trent North</option>
+<option value="1929380285">Stoke-on-Trent South</option>
+<option value="1929380286">Stone</option>
+<option value="1929380287">Stourbridge</option>
+<option value="1929380288">Stratford-on-Avon</option>
+<option value="1929380289">Streatham</option>
+<option value="1929380290">Stretford and Urmston</option>
+<option value="1929380291">Stroud</option>
+<option value="1929380292">Suffolk Coastal</option>
+<option value="1929380293">Sunderland Central</option>
+<option value="1929380294">Surrey Heath</option>
+<option value="1929380296">Sutton Coldfield</option>
+<option value="1929380295">Sutton and Cheam</option>
+<option value="1929380381">Swansea East</option>
+<option value="1929380380">Swansea West</option>
+<option value="1929380297">Tamworth</option>
+<option value="1929380298">Tatton</option>
+<option value="1929380299">Taunton Deane</option>
+<option value="1929380300">Telford</option>
+<option value="1929380301">Tewkesbury</option>
+<option value="1929380302">The Cotswolds</option>
+<option value="1929380303">The Wrekin</option>
+<option value="1929380304">Thirsk and Malton</option>
+<option value="1929380305">Thornbury and Yate</option>
+<option value="1929380306">Thurrock</option>
+<option value="1929380307">Tiverton and Honiton</option>
+<option value="1929380308">Tonbridge and Malling</option>
+<option value="1929380309">Tooting</option>
+<option value="1929380310">Torbay</option>
+<option value="1929380386">Torfaen</option>
+<option value="1929380311">Torridge and West Devon</option>
+<option value="1929380312">Totnes</option>
+<option value="1929380313">Tottenham</option>
+<option value="1929380314">Truro and Falmouth</option>
+<option value="1929380315">Tunbridge Wells</option>
+<option value="1929380316">Twickenham</option>
+<option value="1929380317">Tynemouth</option>
+<option value="1929380318">Uxbridge and South Ruislip</option>
+<option value="1929380393">Vale of Clwyd</option>
+<option value="1929380411">Vale of Glamorgan</option>
+<option value="1929380319">Vauxhall</option>
+<option value="1929380320">Wakefield</option>
+<option value="1929380321">Wallasey</option>
+<option value="1929380322">Walsall North</option>
+<option value="1929380323">Walsall South</option>
+<option value="1929380324">Walthamstow</option>
+<option value="1929380325">Wansbeck</option>
+<option value="1929380326">Wantage</option>
+<option value="1929380327">Warley</option>
+<option value="1929380328">Warrington North</option>
+<option value="1929380329">Warrington South</option>
+<option value="1929380330">Warwick and Leamington</option>
+<option value="1929380331">Washington and Sunderland West</option>
+<option value="1929380332">Watford</option>
+<option value="1929380333">Waveney</option>
+<option value="1929380334">Wealden</option>
+<option value="1929380335">Weaver Vale</option>
+<option value="1929380336">Wellingborough</option>
+<option value="1929380337">Wells</option>
+<option value="1929380338">Welwyn Hatfield</option>
+<option value="1929380339">Wentworth and Dearne</option>
+<option value="1929380471">West Aberdeenshire and Kincardine</option>
+<option value="1929380340">West Bromwich East</option>
+<option value="1929380341">West Bromwich West</option>
+<option value="1929380342">West Dorset</option>
+<option value="1929380472">West Dunbartonshire</option>
+<option value="1929380343">West Ham</option>
+<option value="1929380344">West Lancashire</option>
+<option value="1929380345">West Suffolk</option>
+<option value="1929380346">West Worcestershire</option>
+<option value="1929380347">Westminster North</option>
+<option value="1929380348">Westmorland and Lonsdale</option>
+<option value="1929380349">Weston-Super-Mare</option>
+<option value="1929380350">Wigan</option>
+<option value="1929380351">Wimbledon</option>
+<option value="1929380352">Winchester</option>
+<option value="1929380353">Windsor</option>
+<option value="1929380354">Wirral South</option>
+<option value="1929380355">Wirral West</option>
+<option value="1929380356">Witham</option>
+<option value="1929380357">Witney</option>
+<option value="1929380358">Woking</option>
+<option value="1929380359">Wokingham</option>
+<option value="1929380360">Wolverhampton North East</option>
+<option value="1929380361">Wolverhampton South East</option>
+<option value="1929380362">Wolverhampton South West</option>
+<option value="1929380363">Worcester</option>
+<option value="1929380364">Workington</option>
+<option value="1929380365">Worsley and Eccles South</option>
+<option value="1929380366">Worthing West</option>
+<option value="1929380377">Wrexham</option>
+<option value="1929380367">Wycombe</option>
+<option value="1929380369">Wyre Forest</option>
+<option value="1929380368">Wyre and Preston North</option>
+<option value="1929380370">Wythenshawe and Sale East</option>
+<option value="1929380371">Yeovil</option>
+<option value="1929380374">Ynys Mon</option>
+<option value="1929380372">York Central</option>
+<option value="1929380373">York Outer</option>
+</select>
+</div>
+<input type="submit" name="goBtn" id="goBtn" value="View profile" /></fieldset>
+</div>
+</div>
+</div>
+<!-- End site navigation banner section -->
+<div id="page-wrap" role="main" class="content-after-subnav">
+<!-- Begin page content -->
+
+<script type="text/javascript" language="JavaScript">
+  $('#txtSearch').focus();
+function activateWard(val) { if(val==="-1")
+document.getElementById('selArea1').disabled = true;
+else document.getElementById('selArea1').disabled = false;
+document.getElementById('selArea1').selectedIndex = 0;
+$('#goBtn').click();
+}
+</script>
+
+
+<script language="javascript" type="text/javascript">
+  SetBreadCrumbs(new Array('/home/profiles.asp','Area profiles','./contents.aspx','Westminster constituency profile'));
+if(HideLoadingBanner) HideLoadingBanner();
+</script>    </div>
+	<!-- Begin footer -->
+    <footer style="clear:both;">
+    <div id="nomis-footer-wrapper" role="contentinfo">
+		<ul>
+            <li><a href="/api">API</a></li>
+            <li><a href="/home/sitemap.asp" accesskey="3" id="Site-map">Site map</a></li>
+            <li><a href="/home/news.asp" id="News">News</a></li>
+            <li><a href="/home/accessibility.asp">Accessibility</a></li>
+            <li><a href="/home/accesskeys.asp" id="access-keys" accesskey="0">Access keys</a></li>
+            <li><a href="/home/privacy.asp" id="Privacy-and-Cookies">Privacy and Cookies</a></li>
+            <li><a href="/home/terms.asp" id="Terms-and-Conditions" accesskey="8">Terms and Conditions</a></li>
+			<li><a href="/home/copyright.asp" id="Crown-Copyright">&copy; Crown Copyright</a></li>
+		</ul>
+
+        
+        <div id="durham-uni-logo-container">
+            <a href="http://www.dur.ac.uk"><img border="0" src="/images/du_logo.png" alt="Durham University Logo" /></a>
+        </div>
+    </div>
+
+    </footer>
+	<!-- End footer -->
+
+    <!-- Begin Site-wide Information Popup Box -->
+        <div id="modalBack" role="alert" aria-labelledby="modalDivTitle" style="display: none;">
+            <div id="modalDiv" tabindex="-1">
+                <div id="modalDivHead">
+                     <h2 id="modalDivTitle"></h2>
+	                <div id="modalDivTools"><input type="button" title="Close this pop-up (esc)" id="modalCloseButton" value="Close" onclick="modalClose();" class="modalDivTool" /></div>
+                </div>
+	            <div id="modalBusy"><p>Please wait...</p></div>
+	            <div id="modalDivBody"></div>
+            </div>
+        </div>
+        <!-- End Site-wide Information Popup Box -->
+        </form>
+    </div>
+    
+    <script type="text/javascript" src="/js/tips.js"></script>
+    <!-- End Nomisweb Page div -->
+  </body>
+</html>
